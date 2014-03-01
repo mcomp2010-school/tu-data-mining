@@ -1,0 +1,461 @@
+Category: Sports
+Top Words
+-----------------
+null	Win	533
+null	NCAA	382
+null	Tournament	345
+null	Vs	317
+null	Big	307
+null	New	296
+null	Out	273
+null	State	263
+null	Deal	242
+null	Heat	241
+null	Will	236
+null	Game	235
+null	2013	210
+null	NFL	207
+null	Streak	203
+null	Miami	199
+null	Final	181
+null	World	174
+null	1	170
+null	Knicks	168
+null	East	166
+null	Free	166
+null	Rangers	166
+null	Report	166
+null	Back	165
+null	Off	165
+null	Tiger	162
+null	Beat	160
+null	Lead	157
+null	Past	157
+null	Season	154
+null	Sign	154
+null	First	151
+null	Yankees	150
+null	Team	149
+null	NHL	147
+null	Woods	147
+null	Loss	146
+null	Penguins	142
+null	2	139
+null	Top	139
+null	Bruins	137
+null	Jets	137
+null	Open	137
+null	Straight	136
+null	Injury	135
+null	Lakers	131
+null	Title	127
+null	Michigan	126
+null	Basketball	125
+null	Preview	125
+null	Against	124
+null	Play	123
+null	Florida	122
+null	Day	121
+null	Giants	120
+null	Wins	120
+null	Red	119
+null	NBA	118
+null	Miss	116
+null	Agree	115
+null	Ravens	111
+null	Trade	111
+null	Blackhawks	109
+null	Contract	109
+null	3	107
+null	Baseball	107
+null	Leads	107
+null	Return	107
+null	Celtics	106
+null	Bulls	104
+null	Classic	104
+null	Coach	102
+null	Down	101
+null	Get	101
+null	Hamlin	101
+null	Scores	101
+null	York	100
+null	Bay	98
+null	Dolphins	98
+null	Gets	97
+null	WBC	97
+null	Bryant	95
+null	Still	95
+null	Chicago	94
+null	Patriots	94
+null	Syracuse	94
+null	Time	94
+null	Indiana	93
+null	Signs	93
+null	About	90
+null	Cup	90
+null	James	90
+null	Victory	90
+null	End	89
+null	Agency	87
+null	Former	87
+null	Nuggets	87
+null	Round	87
+null	Have	86
+
+===============================
+Top Words based on Week Day
+-----------------
+1-Mon	NCAA	66
+1-Mon	Tournament	42
+1-Mon	Out	41
+1-Mon	Win	41
+1-Mon	Vs	40
+1-Mon	Will	40
+1-Mon	Heat	39
+1-Mon	Top	35
+1-Mon	Trade	35
+1-Mon	NFL	34
+2-Tue	Win	56
+2-Tue	NFL	44
+2-Tue	Heat	42
+2-Tue	Jets	42
+2-Tue	Big	41
+2-Tue	Deal	41
+2-Tue	Miami	37
+2-Tue	Free	36
+2-Tue	Will	36
+2-Tue	Woods	35
+3-Wed	Win	54
+3-Wed	Lions	51
+3-Wed	Vs	45
+3-Wed	Out	44
+3-Wed	Big	42
+3-Wed	Deal	38
+3-Wed	Lakers	36
+3-Wed	Free	35
+3-Wed	New	34
+3-Wed	Streak	33
+4-Thu	Win	83
+4-Thu	New	57
+4-Thu	Vs	47
+4-Thu	Big	45
+4-Thu	Deal	40
+4-Thu	Falcons	40
+4-Thu	Will	40
+4-Thu	Hamlin	39
+4-Thu	Bruins	37
+4-Thu	Out	37
+5-Fri	Win	94
+5-Fri	NCAA	91
+5-Fri	Tournament	82
+5-Fri	New	73
+5-Fri	State	70
+5-Fri	Vs	59
+5-Fri	Deal	58
+5-Fri	Big	53
+5-Fri	2013	45
+5-Fri	Knicks	45
+6-Sat	Win	94
+6-Sat	State	87
+6-Sat	Tournament	79
+6-Sat	NCAA	72
+6-Sat	Big	64
+6-Sat	Michigan	62
+6-Sat	Out	59
+6-Sat	Vs	59
+6-Sat	Final	49
+6-Sat	Loss	46
+7-Sun	Win	111
+7-Sun	NCAA	105
+7-Sun	Tournament	77
+7-Sun	State	54
+7-Sun	Final	44
+7-Sun	Wins	42
+7-Sun	Vs	41
+7-Sun	Penguins	38
+7-Sun	1	37
+7-Sun	Out	36
+
+===============================
+Top Words based on Day of Month
+-----------------
+Mar 01	Analysis	1
+Mar 01	Dallas	1
+Mar 01	Houston	1
+Mar 01	Mavericks	1
+Mar 01	Predictions	1
+Mar 02	Back-to-back	1
+Mar 02	Hold	1
+Mar 02	Hopes	1
+Mar 02	Mavs	1
+Mar 02	Must	1
+Mar 03	Brazil	2
+Mar 03	Cuba	2
+Mar 03	Mavericks	2
+Mar 03	Michigan	2
+Mar 03	Rockets	2
+Mar 04	Race	3
+Mar 04	Association	2
+Mar 04	Baseball	2
+Mar 04	NASCAR	2
+Mar 04	National	2
+Mar 05	John's	6
+Mar 05	St	6
+Mar 05	Dame	5
+Mar 05	Dynamo	5
+Mar 05	Notre	5
+Mar 06	Injury	24
+Mar 06	Teixeira	22
+Mar 06	Blackhawks	19
+Mar 06	NHL	19
+Mar 06	Out	19
+Mar 07	Win	24
+Mar 07	Blackhawks	20
+Mar 07	Hamlin	20
+Mar 07	New	20
+Mar 07	NASCAR	19
+Mar 08	Big	19
+Mar 08	World	19
+Mar 08	Classic	17
+Mar 08	Tiger	17
+Mar 08	Woods	17
+Mar 09	Harrison	20
+Mar 09	Big	16
+Mar 09	James	15
+Mar 09	Nets	14
+Mar 09	Streak	14
+Mar 10	Win	26
+Mar 10	Vegas	9
+Mar 10	Hopkins	8
+Mar 10	Las	8
+Mar 10	Title	8
+Mar 11	Harvin	17
+Mar 11	49ers	16
+Mar 11	Boldin	16
+Mar 11	Big	13
+Mar 11	Trade	13
+Mar 12	Free	33
+Mar 12	Eagles	30
+Mar 12	Agency	27
+Mar 12	Jets	26
+Mar 12	Deal	25
+Mar 13	Lions	47
+Mar 13	Bush	32
+Mar 13	Win	27
+Mar 13	Free	26
+Mar 13	Welker	25
+Mar 14	Win	26
+Mar 14	NFL	25
+Mar 14	Big	23
+Mar 14	Deal	22
+Mar 14	New	21
+Mar 15	Big	28
+Mar 15	Deal	28
+Mar 15	New	27
+Mar 15	Sign	25
+Mar 15	Wright	24
+Mar 16	Win	48
+Mar 16	Big	46
+Mar 16	State	37
+Mar 16	Tournament	34
+Mar 16	Vs	32
+Mar 17	NCAA	65
+Mar 17	Tournament	50
+Mar 17	Win	39
+Mar 17	1	27
+Mar 17	Seed	26
+Mar 18	NCAA	48
+Mar 18	Will	28
+Mar 18	Tournament	25
+Mar 18	Heat	23
+Mar 18	Vs	21
+Mar 19	Win	27
+Mar 19	Heat	21
+Mar 19	Woods	20
+Mar 19	New	19
+Mar 19	Game	18
+Mar 20	Jeter	12
+Mar 20	Big	10
+Mar 20	Kentucky	10
+Mar 20	Kings	10
+Mar 20	Open	10
+Mar 21	Bulls	10
+Mar 21	Vs	10
+Mar 21	Blazers	9
+Mar 21	Win	9
+Mar 21	Rangers	8
+Mar 22	NCAA	69
+Mar 22	Tournament	49
+Mar 22	Win	46
+Mar 22	State	29
+Mar 22	New	21
+Mar 23	NCAA	51
+Mar 23	Tournament	38
+Mar 23	Michigan	35
+Mar 23	State	31
+Mar 23	Win	25
+Mar 24	NCAA	38
+Mar 24	Win	32
+Mar 24	Tournament	24
+Mar 24	State	22
+Mar 24	16	18
+Mar 25	Win	24
+Mar 25	Back	21
+Mar 25	16	20
+Mar 25	Out	20
+Mar 25	NCAA	17
+Mar 26	Tiger	14
+Mar 26	Woods	13
+Mar 26	Win	12
+Mar 26	Shaun	9
+Mar 26	1	8
+Mar 27	Bruins	9
+Mar 27	Day	8
+Mar 27	Canadiens	7
+Mar 27	Wainwright	6
+Mar 27	Cardinals	5
+Mar 28	Iginla	27
+Mar 28	Win	24
+Mar 28	Open	23
+Mar 28	Jarome	22
+Mar 28	Streak	22
+Mar 29	Deal	18
+Mar 29	Davis	17
+Mar 29	Gay	17
+Mar 29	Win	17
+Mar 29	Open	16
+Mar 30	State	13
+Mar 30	Out	12
+Mar 30	Dolphins	11
+Mar 30	Grimes	11
+Mar 30	Final	10
+Mar 31	Win	14
+Mar 31	Marlins	12
+Mar 31	Final	11
+Mar 31	Crosby	10
+Mar 31	Four	10
+
+===============================
+Top Words based on the Hour
+-----------------
+00-12am	Win	52
+00-12am	State	36
+00-12am	NCAA	34
+00-12am	Tournament	33
+00-12am	Big	27
+01-01am	Win	54
+01-01am	NCAA	31
+01-01am	State	28
+01-01am	Tournament	27
+01-01am	Kings	24
+02-02am	Win	27
+02-02am	NCAA	15
+02-02am	Back	13
+02-02am	Heat	13
+02-02am	1	12
+03-03am	Win	22
+03-03am	Heat	16
+03-03am	Out	12
+03-03am	Loss	11
+03-03am	NCAA	10
+04-04am	Win	11
+04-04am	New	10
+04-04am	Penguins	9
+04-04am	NCAA	8
+04-04am	1	7
+05-05am	Win	9
+05-05am	Around	7
+05-05am	Basketball	6
+05-05am	Big	5
+05-05am	Heat	5
+06-06am	Win	9
+06-06am	First	6
+06-06am	Live	6
+06-06am	Malaysian	6
+06-06am	Ohio	6
+07-07am	2013	13
+07-07am	Win	11
+07-07am	Vs	10
+07-07am	March	9
+07-07am	NFL	9
+08-08am	2013	29
+08-08am	Scores	17
+08-08am	Win	16
+08-08am	Vs	15
+08-08am	Big	14
+09-09am	New	23
+09-09am	Win	19
+09-09am	Vs	13
+09-09am	Report	12
+09-09am	Knicks	11
+10-10am	Vs	23
+10-10am	2013	19
+10-10am	Win	15
+10-10am	World	15
+10-10am	New	14
+11-11am	New	27
+11-11am	Deal	24
+11-11am	NCAA	16
+11-11am	Report	16
+11-11am	Game	15
+12-12pm	New	18
+12-12pm	Release	17
+12-12pm	Report	17
+12-12pm	Deal	15
+12-12pm	Will	15
+13-01pm	Vs	22
+13-01pm	New	21
+13-01pm	Deal	18
+13-01pm	Free	16
+13-01pm	Sign	14
+14-02pm	New	19
+14-02pm	Big	16
+14-02pm	Vs	15
+14-02pm	Report	14
+14-02pm	Injury	13
+15-03pm	Win	26
+15-03pm	New	23
+15-03pm	Will	22
+15-03pm	Miami	18
+15-03pm	Giants	17
+16-04pm	Out	23
+16-04pm	Tournament	22
+16-04pm	Deal	21
+16-04pm	Red	20
+16-04pm	New	18
+17-05pm	Sign	25
+17-05pm	Big	20
+17-05pm	Deal	18
+17-05pm	Tiger	18
+17-05pm	Will	17
+18-06pm	NCAA	30
+18-06pm	Tournament	30
+18-06pm	Win	26
+18-06pm	State	20
+18-06pm	Miami	19
+19-07pm	Win	22
+19-07pm	Out	21
+19-07pm	NCAA	20
+19-07pm	Deal	19
+19-07pm	Tournament	16
+20-08pm	NCAA	36
+20-08pm	Tournament	32
+20-08pm	Win	20
+20-08pm	Out	19
+20-08pm	State	19
+21-09pm	Win	30
+21-09pm	Big	24
+21-09pm	NCAA	21
+21-09pm	Game	17
+21-09pm	Heat	17
+22-10pm	Win	58
+22-10pm	Beat	31
+22-10pm	Heat	30
+22-10pm	Past	29
+22-10pm	Vs	26
+23-11pm	Win	50
+23-11pm	Streak	32
+23-11pm	Vs	26
+23-11pm	Rangers	25
+23-11pm	Tournament	25
+

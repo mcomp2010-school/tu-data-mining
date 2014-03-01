@@ -1,0 +1,4 @@
+name,fever,cough,test-1,test-2,test-3,test-4
+jack,y,n,y,n,n,n
+jim,y,y,n,n,n,n
+mary,y,n,y,n,y,n

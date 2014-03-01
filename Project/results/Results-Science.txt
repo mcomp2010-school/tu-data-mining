@@ -1,0 +1,456 @@
+Category: Science
+Top Words
+-----------------
+null	Comet	154
+null	New	140
+null	Mars	127
+null	Space	103
+null	Scientists	99
+null	Earth	94
+null	NASA	83
+null	Study	79
+null	Curiosity	70
+null	Could	67
+null	Life	66
+null	Rover	66
+null	Found	65
+null	Have	58
+null	Pan-STARRS	52
+null	Solar	52
+null	Science	51
+null	Station	48
+null	Species	47
+null	Years	47
+null	Researchers	45
+null	That	45
+null	Higgs	44
+null	Sky	44
+null	This	44
+null	Florida	43
+null	Rare	43
+null	Global	42
+null	Discovered	40
+null	First	39
+null	See	39
+null	Trade	39
+null	Will	39
+null	Giant	38
+null	Asteroid	36
+null	Sea	36
+null	Back	34
+null	Boson	34
+null	Ancient	31
+null	Than	31
+null	Beaches	30
+null	Meteor	30
+null	Polar	30
+null	SpaceX	30
+null	Find	29
+null	Moon	29
+null	Red	29
+null	Warming	29
+null	Change	28
+null	Into	28
+null	Sharks	28
+null	Climate	27
+null	Finds	27
+null	Shark	27
+null	US	27
+null	Extinct	26
+null	Light	26
+null	Off	26
+null	Record	26
+null	System	26
+null	Coast	25
+null	Dragon	25
+null	Sinkhole	25
+null	Telescope	25
+null	Arctic	24
+null	Endangered	24
+null	Evidence	24
+null	Hour	24
+null	Most	24
+null	Robot	24
+null	We	24
+null	Lake	23
+null	Lights	23
+null	Ocean	23
+null	Return	23
+null	Tide	23
+null	About	22
+null	Antarctic	22
+null	Big	22
+null	Like	22
+null	Rocket	22
+null	Universe	22
+null	Video	22
+null	Can	21
+null	One	21
+null	Tonight	21
+null	Bear	20
+null	Crew	20
+null	DNA	20
+null	East	20
+null	It's	20
+null	Ivory	20
+null	Make	20
+null	Manatees	20
+null	Out	20
+null	Particle	20
+null	Capsule	19
+null	Extinction	19
+null	Help	19
+null	Next	19
+
+===============================
+Top Words based on Week Day
+-----------------
+1-Mon	New	30
+1-Mon	Mars	21
+1-Mon	Scientists	20
+1-Mon	Rover	16
+1-Mon	Curiosity	15
+1-Mon	Florida	13
+1-Mon	Solar	13
+1-Mon	Back	11
+1-Mon	Life	11
+1-Mon	Study	11
+2-Tue	Comet	25
+2-Tue	NASA	22
+2-Tue	Mars	20
+2-Tue	New	17
+2-Tue	Space	15
+2-Tue	Found	14
+2-Tue	Red	14
+2-Tue	Asteroid	13
+2-Tue	Curiosity	13
+2-Tue	Species	13
+3-Wed	Mars	30
+3-Wed	Comet	25
+3-Wed	NASA	21
+3-Wed	Curiosity	20
+3-Wed	Rover	17
+3-Wed	Trade	16
+3-Wed	Scientists	14
+3-Wed	Space	14
+3-Wed	Found	13
+3-Wed	Science	13
+4-Thu	Mars	30
+4-Thu	Scientists	22
+4-Thu	Space	21
+4-Thu	Comet	20
+4-Thu	Could	19
+4-Thu	New	19
+4-Thu	Higgs	17
+4-Thu	Study	17
+4-Thu	Sharks	15
+4-Thu	Beaches	14
+5-Fri	New	45
+5-Fri	Comet	34
+5-Fri	Space	31
+5-Fri	Earth	23
+5-Fri	Study	23
+5-Fri	Mars	22
+5-Fri	Scientists	21
+5-Fri	Global	18
+5-Fri	Robot	17
+5-Fri	Station	16
+6-Sat	Comet	25
+6-Sat	Earth	25
+6-Sat	Meteor	20
+6-Sat	Space	14
+6-Sat	Sky	13
+6-Sat	Coast	11
+6-Sat	New	11
+6-Sat	Pan-STARRS	11
+6-Sat	East	10
+6-Sat	Lights	10
+7-Sun	Comet	16
+7-Sun	Earth	14
+7-Sun	Scientists	10
+7-Sun	Hour	9
+7-Sun	See	8
+7-Sun	Study	7
+7-Sun	Deepest	6
+7-Sun	Flash	6
+7-Sun	Have	6
+7-Sun	Life	6
+
+===============================
+Top Words based on Day of Month
+-----------------
+Mar 01	Computer	1
+Mar 01	Curiosity	1
+Mar 01	Engineers	1
+Mar 01	Glitch	1
+Mar 01	Halted	1
+Mar 03	76	1
+Mar 03	Catastrophe	1
+Mar 03	Electricity	1
+Mar 03	Hindenburg	1
+Mar 03	Historic	1
+Mar 04	2050	2
+Mar 04	Alligator	2
+Mar 04	Directly	2
+Mar 04	History	2
+Mar 04	Kin	2
+Mar 05	Comet	4
+Mar 05	Elephants	4
+Mar 05	Hubble	4
+Mar 05	Ivory	4
+Mar 05	Space	4
+Mar 06	Comet	14
+Mar 06	Trade	12
+Mar 06	Arctic	10
+Mar 06	Camels	9
+Mar 06	Curiosity	9
+Mar 07	Comet	14
+Mar 07	Polar	13
+Mar 07	Mars	12
+Mar 07	Sharks	12
+Mar 07	Beaches	11
+Mar 08	Comet	21
+Mar 08	New	15
+Mar 08	Study	15
+Mar 08	Global	11
+Mar 08	Lake	9
+Mar 09	Comet	12
+Mar 09	Pan-STARRS	7
+Mar 09	Earth	4
+Mar 09	New	4
+Mar 09	Scientists	4
+Mar 10	Comet	13
+Mar 10	See	5
+Mar 10	Have	4
+Mar 10	Light	4
+Mar 10	Night	4
+Mar 11	Record	8
+Mar 11	Manatees	6
+Mar 11	Red	6
+Mar 11	Tide	6
+Mar 11	Comet	5
+Mar 12	Comet	19
+Mar 12	Mars	16
+Mar 12	Red	13
+Mar 12	Manatees	12
+Mar 12	Tide	12
+Mar 13	Mars	20
+Mar 13	Life	12
+Mar 13	Curiosity	11
+Mar 13	Science	11
+Mar 13	Rover	10
+Mar 14	Boson	11
+Mar 14	Higgs	11
+Mar 14	Have	9
+Mar 14	Mars	9
+Mar 14	New	8
+Mar 15	Earth	12
+Mar 15	Comet	10
+Mar 15	New	8
+Mar 15	Space	8
+Mar 15	Atmosphere	7
+Mar 16	Earth	9
+Mar 16	Space	9
+Mar 16	Comet	7
+Mar 16	Crew	6
+Mar 16	Higgs	5
+Mar 17	Deepest	6
+Mar 17	Scientists	6
+Mar 17	Extinct	5
+Mar 17	Spiders	5
+Mar 17	Frog	4
+Mar 18	New	14
+Mar 18	Mars	9
+Mar 18	Scientists	9
+Mar 18	Extinct	8
+Mar 18	Prize	8
+Mar 19	Asteroid	10
+Mar 19	NASA	10
+Mar 19	Congress	7
+Mar 19	Study	7
+Mar 19	Swallows	7
+Mar 20	NASA	10
+Mar 20	Rocket	7
+Mar 20	Genome	6
+Mar 20	Neanderthal	6
+Mar 20	Sea	6
+Mar 21	Universe	4
+Mar 21	Extinction	3
+Mar 21	Robot	3
+Mar 21	Space	3
+Mar 21	Study	3
+Mar 22	Space	8
+Mar 22	Coast	6
+Mar 22	Dragon	6
+Mar 22	Earth	6
+Mar 22	Meteor	6
+Mar 23	Meteor	20
+Mar 23	Earth	11
+Mar 23	Coast	10
+Mar 23	East	10
+Mar 23	Lights	10
+Mar 24	Hour	9
+Mar 24	Earth	8
+Mar 24	Flash	5
+Mar 24	Giraffe	4
+Mar 24	Whales	4
+Mar 25	Solar	13
+Mar 25	Mars	11
+Mar 25	Endangered	10
+Mar 25	Florida	10
+Mar 25	New	9
+Mar 26	Shark	9
+Mar 26	New	7
+Mar 26	Pacific	7
+Mar 26	Space	7
+Mar 26	SpaceX	7
+Mar 27	NASA	2
+Mar 27	Administration's	1
+Mar 27	Air	1
+Mar 27	Appeals	1
+Mar 27	Appear	1
+Mar 28	Could	12
+Mar 28	Egg	11
+Mar 28	Space	11
+Mar 28	Madagascar	8
+Mar 28	Mars	8
+Mar 29	New	16
+Mar 29	Jellyfish	13
+Mar 29	Shroud	13
+Mar 29	Robot	12
+Mar 29	Space	12
+Mar 30	Firefighters	3
+Mar 30	Helmet	3
+Mar 30	Scientists	3
+Mar 30	Ants	2
+Mar 30	Could	2
+Mar 31	First	2
+Mar 31	Minnesota	2
+Mar 31	Study	2
+Mar 31	Wildlife	2
+Mar 31	3D	1
+
+===============================
+Top Words based on the Hour
+-----------------
+00-12am	Comet	7
+00-12am	Earth	5
+00-12am	Above	4
+00-12am	Space	4
+00-12am	This	4
+01-01am	Have	4
+01-01am	Orbit	4
+01-01am	Scientists	4
+01-01am	Study	4
+01-01am	Earth	3
+02-02am	Could	5
+02-02am	Astronomers	4
+02-02am	Comet	3
+02-02am	Earth	3
+02-02am	Mars	3
+03-03am	Comet	8
+03-03am	Species	4
+03-03am	Australia	3
+03-03am	Dock	3
+03-03am	Flash	3
+04-04am	Comet	5
+04-04am	Study	3
+04-04am	Could	2
+04-04am	Earth	2
+04-04am	Found	2
+05-05am	Study	8
+05-05am	Earth	6
+05-05am	Could	5
+05-05am	Like	5
+05-05am	NASA	5
+06-06am	Comet	7
+06-06am	Ivory	4
+06-06am	New	4
+06-06am	Science	4
+06-06am	See	4
+07-07am	Comet	9
+07-07am	New	8
+07-07am	Space	6
+07-07am	Have	5
+07-07am	Life	5
+08-08am	Comet	9
+08-08am	Found	7
+08-08am	Mars	7
+08-08am	NASA	6
+08-08am	That	6
+09-09am	Comet	11
+09-09am	Mars	8
+09-09am	New	7
+09-09am	Space	7
+09-09am	Researchers	6
+10-10am	New	10
+10-10am	Found	8
+10-10am	Mars	7
+10-10am	Earth	6
+10-10am	Life	6
+11-11am	Mars	11
+11-11am	Space	10
+11-11am	Could	8
+11-11am	Comet	7
+11-11am	NASA	7
+12-12pm	New	18
+12-12pm	Comet	10
+12-12pm	Space	10
+12-12pm	Station	6
+12-12pm	Study	6
+13-01pm	New	9
+13-01pm	Scientists	9
+13-01pm	Sea	8
+13-01pm	Comet	7
+13-01pm	Could	7
+14-02pm	Mars	14
+14-02pm	Life	8
+14-02pm	Could	7
+14-02pm	Earth	7
+14-02pm	New	7
+15-03pm	Comet	10
+15-03pm	Mars	10
+15-03pm	New	10
+15-03pm	Rover	8
+15-03pm	Could	7
+16-04pm	Comet	9
+16-04pm	Mars	8
+16-04pm	New	7
+16-04pm	Study	7
+16-04pm	Curiosity	6
+17-05pm	New	9
+17-05pm	Comet	8
+17-05pm	Mars	7
+17-05pm	Study	5
+17-05pm	Can	4
+18-06pm	Mars	9
+18-06pm	Scientists	7
+18-06pm	Comet	6
+18-06pm	Curiosity	6
+18-06pm	Found	6
+19-07pm	Life	7
+19-07pm	Space	7
+19-07pm	Mars	6
+19-07pm	Back	4
+19-07pm	Have	4
+20-08pm	Rover	6
+20-08pm	Scientists	6
+20-08pm	Curiosity	5
+20-08pm	Mars	5
+20-08pm	NASA	5
+21-09pm	Comet	9
+21-09pm	Through	7
+21-09pm	New	6
+21-09pm	See	6
+21-09pm	Mars	5
+22-10pm	Space	6
+22-10pm	New	5
+22-10pm	Big	4
+22-10pm	Endangered	4
+22-10pm	Rare	4
+23-11pm	Earth	5
+23-11pm	Mars	5
+23-11pm	Space	5
+23-11pm	Comet	4
+23-11pm	Curiosity	4
+

@@ -1,0 +1,456 @@
+Category: Entertainment
+Top Words
+-----------------
+null	Justin	372
+null	New	333
+null	Bieber	166
+null	Show	143
+null	SXSW	141
+null	Star	140
+null	Timberlake	138
+null	&	130
+null	2013	130
+null	Lindsay	130
+null	Out	128
+null	Season	128
+null	Miley	122
+null	Will	122
+null	Taylor	119
+null	Baby	115
+null	Lohan	114
+null	Cyrus	113
+null	Kim	112
+null	Movie	112
+null	Video	111
+null	About	110
+null	Dies	109
+null	Kardashian	107
+null	Top	107
+null	Kate	103
+null	Gets	102
+null	Music	102
+null	Lil	101
+null	TV	101
+null	American Idol	100
+null	Awards	99
+null	Trailer	98
+null	Review	93
+null	Swift	93
+null	10	92
+null	Recap	92
+null	James	89
+null	Album	82
+null	Tour	82
+null	Film	81
+null	Off	77
+null	Back	76
+null	Selena	74
+null	First	73
+null	American	72
+null	Liam	72
+null	Wayne	71
+null	Day	70
+null	Sean	70
+null	Watch	70
+null	Gomez	69
+null	Idol	69
+null	Kelly	68
+null	Girl	67
+null	Festival	66
+null	Oz	66
+null	Chris	65
+null	Talks	65
+null	Hospital	64
+null	Report	64
+null	Great	63
+null	Matt	63
+null	Osbourne	63
+null	Split	62
+null	Lauer	61
+null	Boy	60
+null	John	60
+null	2	59
+null	Hemsworth	59
+null	Return	59
+null	This	59
+null	Michelle	57
+null	Seizure	57
+null	Set	56
+null	3	55
+null	Box	55
+null	I	55
+null	Reveals	55
+null	Rumors	54
+null	Timberlake's	54
+null	Fans	53
+null	Million	52
+null	Singer	52
+null	Premiere	51
+null	Down	50
+null	Attack	49
+null	Stewart	49
+null	Kids	48
+null	Time	48
+null	Demi	47
+null	Into	47
+null	Shocked	47
+null	Week	47
+null	Beyonce	46
+null	It's	46
+null	Jim	46
+null	Nicki	46
+null	Man	45
+null	NBC	45
+
+===============================
+Top Words based on Week Day
+-----------------
+1-Mon	New	77
+1-Mon	Justin	46
+1-Mon	Lindsay	46
+1-Mon	Lohan	42
+1-Mon	James	35
+1-Mon	Season	34
+1-Mon	Awards	30
+1-Mon	Video	26
+1-Mon	Show	24
+1-Mon	2013	23
+2-Tue	Justin	91
+2-Tue	New	40
+2-Tue	Timberlake	40
+2-Tue	Season	32
+2-Tue	Bieber	31
+2-Tue	Sean	30
+2-Tue	Michelle	26
+2-Tue	Hospital	25
+2-Tue	Film	24
+2-Tue	Album	23
+3-Wed	New	42
+3-Wed	Movie	39
+3-Wed	Taylor	37
+3-Wed	Kate	35
+3-Wed	Justin	31
+3-Wed	Top	30
+3-Wed	Swift	28
+3-Wed	Attack	25
+3-Wed	Kim	25
+3-Wed	Music	24
+4-Thu	New	65
+4-Thu	Taylor	45
+4-Thu	Justin	39
+4-Thu	Star	38
+4-Thu	Chris	36
+4-Thu	Swift	36
+4-Thu	10	34
+4-Thu	American Idol	34
+4-Thu	Miley	32
+4-Thu	Top	31
+5-Fri	Justin	73
+5-Fri	Bieber	58
+5-Fri	New	51
+5-Fri	Dies	44
+5-Fri	Baby	42
+5-Fri	Cyrus	40
+5-Fri	Miley	39
+5-Fri	Show	37
+5-Fri	American Idol	36
+5-Fri	&	34
+6-Sat	SXSW	40
+6-Sat	Justin	35
+6-Sat	New	27
+6-Sat	Day	23
+6-Sat	2013	21
+6-Sat	Awards	18
+6-Sat	Bieber	18
+6-Sat	Box	18
+6-Sat	Oz	18
+6-Sat	Chemical	17
+7-Sun	Justin	57
+7-Sun	New	31
+7-Sun	Timberlake	31
+7-Sun	SXSW	30
+7-Sun	2013	22
+7-Sun	Box	20
+7-Sun	Awards	19
+7-Sun	Bieber	16
+7-Sun	David	15
+7-Sun	Gets	15
+
+===============================
+Top Words based on Day of Month
+-----------------
+Mar 01	Beverly	2
+Mar 01	Camille	2
+Mar 01	Grammer	2
+Mar 01	Hills	2
+Mar 01	Housewives	2
+Mar 02	Adrienne	1
+Mar 02	Camille	1
+Mar 02	Grammer	1
+Mar 02	Housewives	1
+Mar 02	Maloof	1
+Mar 04	Hair	3
+Mar 04	Miley	3
+Mar 04	Blue	2
+Mar 04	Cyrus	2
+Mar 04	Kanye	2
+Mar 05	Center	7
+Mar 05	Kennedy	7
+Mar 05	Fey	5
+Mar 05	Taylor	5
+Mar 05	Tina	5
+Mar 06	Attack	23
+Mar 06	Bolshoi	19
+Mar 06	Taylor	18
+Mar 06	Acid	17
+Mar 06	Movie	17
+Mar 07	10	28
+Mar 07	Chris	22
+Mar 07	Brown	21
+Mar 07	Trailer	20
+Mar 07	American Idol	19
+Mar 08	Justin	33
+Mar 08	Bieber	29
+Mar 08	Oz	21
+Mar 08	Kelly	20
+Mar 08	Osbourne	20
+Mar 09	SXSW	21
+Mar 09	Oz	17
+Mar 09	Great	12
+Mar 09	Powerful	12
+Mar 09	Justin	10
+Mar 10	Justin	20
+Mar 10	Timberlake	16
+Mar 10	SNL	9
+Mar 10	Joins	7
+Mar 10	Oz	6
+Mar 11	Justin	15
+Mar 11	Lauer	14
+Mar 11	Matt	13
+Mar 11	Ann	10
+Mar 11	Kardashian	9
+Mar 12	Justin	41
+Mar 12	Sean	26
+Mar 12	Osbourne	21
+Mar 12	Bachelor	20
+Mar 12	Kelly	20
+Mar 13	Movie	20
+Mar 13	Veronica Mars	19
+Mar 13	Sean	18
+Mar 13	Kim	17
+Mar 13	Liam	17
+Mar 14	Day	20
+Mar 14	Pi	17
+Mar 14	Miley	15
+Mar 14	Ed	14
+Mar 14	Liam	14
+Mar 15	Justin	22
+Mar 15	Bieber	20
+Mar 15	Music	20
+Mar 15	Cyrus	18
+Mar 15	Miley	16
+Mar 16	Day	19
+Mar 16	SXSW	19
+Mar 16	Green	17
+Mar 16	Morrissey	14
+Mar 16	Tour	11
+Mar 17	SXSW	28
+Mar 17	Justin	18
+Mar 17	Loc	15
+Mar 17	Madonna	15
+Mar 17	New	15
+Mar 18	New	32
+Mar 18	Lindsay	27
+Mar 18	Lohan	25
+Mar 18	Justin	19
+Mar 18	Lil	19
+Mar 19	Justin	42
+Mar 19	Michelle	23
+Mar 19	Timberlake	23
+Mar 19	Shocked	19
+Mar 19	Holmes	18
+Mar 20	Kate	24
+Mar 20	Prom	19
+Mar 20	Upton	19
+Mar 20	John	12
+Mar 20	Katy	12
+Mar 21	New	12
+Mar 21	Joe	8
+Mar 21	Jonas	8
+Mar 21	Sex	7
+Mar 21	Face	6
+Mar 22	New	27
+Mar 22	John	26
+Mar 22	Dies	23
+Mar 22	Chinua	20
+Mar 22	Achebe	19
+Mar 23	Chemical	17
+Mar 23	Romance	17
+Mar 23	Awards	15
+Mar 23	Kids	15
+Mar 23	Choice	14
+Mar 24	Box	14
+Mar 24	Awards	12
+Mar 24	Choice	12
+Mar 24	Kids	12
+Mar 24	New	12
+Mar 25	New	37
+Mar 25	Awards	20
+Mar 25	Video	20
+Mar 25	James	19
+Mar 25	Lindsay	18
+Mar 26	The Voice	12
+Mar 26	Usher	12
+Mar 26	New	11
+Mar 26	Shakira	11
+Mar 26	Recap	10
+Mar 27	Out	7
+Mar 27	New	6
+Mar 27	Jenna	5
+Mar 27	Wolfe	5
+Mar 27	Awards	4
+Mar 28	New	23
+Mar 28	Taylor	23
+Mar 28	Swift	20
+Mar 28	Star	17
+Mar 28	Justin	16
+Mar 29	Griffiths	22
+Mar 29	Richard	22
+Mar 29	Justin	14
+Mar 29	Lindsay	14
+Mar 29	Show	14
+Mar 30	Justin	8
+Mar 30	Phil	6
+Mar 30	Ramone	6
+Mar 30	Angelina	5
+Mar 30	Jolie	5
+Mar 31	Justin	10
+Mar 31	Ramone	9
+Mar 31	Bieber	8
+Mar 31	Phil	8
+Mar 31	Producer	8
+
+===============================
+Top Words based on the Hour
+-----------------
+00-12am	Justin	9
+00-12am	2013	8
+00-12am	Awards	8
+00-12am	Out	7
+00-12am	Recap	7
+01-01am	Justin	7
+01-01am	Recap	7
+01-01am	American Idol	6
+01-01am	&	5
+01-01am	10	5
+02-02am	Justin	7
+02-02am	Recap	7
+02-02am	Bieber	6
+02-02am	American Idol	5
+02-02am	Day	5
+03-03am	Bieber	6
+03-03am	Justin	5
+03-03am	Kate	5
+03-03am	New	5
+03-03am	Shows	5
+04-04am	Justin	13
+04-04am	Bieber	7
+04-04am	Lindsay	5
+04-04am	Lohan	5
+04-04am	New	5
+05-05am	Justin	15
+05-05am	New	8
+05-05am	Timberlake	7
+05-05am	Bieber	6
+05-05am	Kelly	5
+06-06am	Justin	12
+06-06am	New	11
+06-06am	Bieber	7
+06-06am	Girl	5
+06-06am	Kate	5
+07-07am	Justin	19
+07-07am	New	12
+07-07am	Review	11
+07-07am	Bieber	10
+07-07am	&	9
+08-08am	Justin	26
+08-08am	New	21
+08-08am	Recap	16
+08-08am	American Idol	13
+08-08am	Bieber	13
+09-09am	Justin	18
+09-09am	Star	16
+09-09am	New	13
+09-09am	Kim	10
+09-09am	SXSW	10
+10-10am	New	22
+10-10am	Justin	20
+10-10am	American Idol	11
+10-10am	Gets	11
+10-10am	Season	11
+11-11am	New	29
+11-11am	Justin	26
+11-11am	Cyrus	14
+11-11am	Miley	14
+11-11am	Swift	14
+12-12pm	Justin	35
+12-12pm	New	26
+12-12pm	Lindsay	17
+12-12pm	Ratings	16
+12-12pm	TV	15
+13-01pm	Justin	24
+13-01pm	New	19
+13-01pm	Trailer	16
+13-01pm	Lindsay	13
+13-01pm	Star	13
+14-02pm	New	19
+14-02pm	Justin	18
+14-02pm	James	13
+14-02pm	SXSW	12
+14-02pm	Trailer	12
+15-03pm	Justin	18
+15-03pm	New	15
+15-03pm	Kim	12
+15-03pm	Taylor	12
+15-03pm	Swift	11
+16-04pm	New	26
+16-04pm	Justin	15
+16-04pm	Dies	13
+16-04pm	2013	12
+16-04pm	Lindsay	10
+17-05pm	New	13
+17-05pm	Justin	11
+17-05pm	Baby	10
+17-05pm	Star	10
+17-05pm	Taylor	9
+18-06pm	New	18
+18-06pm	Justin	14
+18-06pm	&	13
+18-06pm	Star	11
+18-06pm	Timberlake	10
+19-07pm	Justin	16
+19-07pm	New	12
+19-07pm	&	11
+19-07pm	Bieber	11
+19-07pm	Lindsay	11
+20-08pm	Justin	15
+20-08pm	New	13
+20-08pm	2013	10
+20-08pm	Bieber	9
+20-08pm	Top	9
+21-09pm	Justin	15
+21-09pm	American Idol	9
+21-09pm	New	9
+21-09pm	Festival	8
+21-09pm	Music	8
+22-10pm	Top	12
+22-10pm	10	9
+22-10pm	Awards	9
+22-10pm	New	9
+22-10pm	TV	8
+23-11pm	New	16
+23-11pm	Video	9
+23-11pm	Justin	8
+23-11pm	Awards	6
+23-11pm	John	6
+

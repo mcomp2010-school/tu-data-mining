@@ -1,0 +1,446 @@
+Category: Health
+Top Words
+-----------------
+null	Study	194
+null	New	174
+null	Cancer	149
+null	FDA	149
+null	Heart	116
+null	Risk	112
+null	Health	109
+null	Drug	98
+null	HIV	75
+null	Patients	65
+null	CDC	60
+null	Can	60
+null	Medical	60
+null	US	59
+null	Care	58
+null	Deaths	58
+null	Kids	57
+null	Linked	56
+null	Finds	51
+null	Too	50
+null	Rabies	49
+null	Could	47
+null	Disease	45
+null	CPR	43
+null	Help	43
+null	Vaccine	43
+null	Virus	43
+null	Ban	40
+null	Blood	40
+null	Diabetes	40
+null	About	39
+null	Death	39
+null	Salt	39
+null	Warns	39
+null	Bill	38
+null	Deadly	38
+null	Drugs	38
+null	Food	38
+null	Dies	37
+null	Have	37
+null	Against	36
+null	Drinks	36
+null	Marijuana	35
+null	People	35
+null	Recall	35
+null	Breast	34
+null	&	32
+null	Early	32
+null	Transplant	32
+null	1	31
+null	Case	31
+null	NYC	31
+null	Test	31
+null	Baby	30
+null	Cause	30
+null	Weight	30
+null	Your	30
+null	Autism	29
+null	Hospital	29
+null	Mandela	29
+null	That	29
+null	Get	28
+null	Million	28
+null	One	28
+null	Out	28
+null	Woman	28
+null	County	27
+null	First	27
+null	Report	27
+null	Tuna	27
+null	Doctor	26
+null	Treatment	26
+null	Bloomberg	25
+null	Day	25
+null	Doctors	25
+null	Fight	25
+null	Johnson	25
+null	Trial	25
+null	Life	24
+null	Bee	23
+null	Down	23
+null	Flu	23
+null	Soda	23
+null	Solid	23
+null	Women	23
+null	Antibiotic	22
+null	Group	22
+null	HPV	22
+null	High	22
+null	Most	22
+null	Some	22
+null	Stroke	22
+null	Better	21
+null	Children	21
+null	Hepatitis	21
+null	Link	21
+null	MS	21
+null	Make	21
+null	Parents	21
+null	Pharmacy	21
+
+===============================
+Top Words based on Week Day
+-----------------
+1-Mon	Study	33
+1-Mon	New	26
+1-Mon	Cancer	24
+1-Mon	Heart	21
+1-Mon	Health	20
+1-Mon	HPV	19
+1-Mon	Drug	18
+1-Mon	Solid	18
+1-Mon	Too	18
+1-Mon	FDA	17
+2-Tue	Study	35
+2-Tue	FDA	34
+2-Tue	New	31
+2-Tue	Heart	30
+2-Tue	Risk	22
+2-Tue	Ban	18
+2-Tue	Can	18
+2-Tue	Health	18
+2-Tue	Cancer	17
+2-Tue	Care	17
+3-Wed	Study	38
+3-Wed	Heart	31
+3-Wed	FDA	30
+3-Wed	New	24
+3-Wed	Cancer	21
+3-Wed	Drug	21
+3-Wed	CPR	20
+3-Wed	Risk	20
+3-Wed	US	19
+3-Wed	Health	17
+4-Thu	Cancer	37
+4-Thu	Study	33
+4-Thu	New	30
+4-Thu	FDA	28
+4-Thu	Risk	24
+4-Thu	HIV	19
+4-Thu	Drug	18
+4-Thu	Patients	18
+4-Thu	Diabetes	15
+4-Thu	Tuna	14
+5-Fri	New	39
+5-Fri	Study	34
+5-Fri	FDA	32
+5-Fri	HIV	26
+5-Fri	CDC	23
+5-Fri	Cancer	23
+5-Fri	Rabies	23
+5-Fri	Medical	21
+5-Fri	Patients	20
+5-Fri	Health	19
+6-Sat	Health	18
+6-Sat	Study	17
+6-Sat	New	13
+6-Sat	CPR	11
+6-Sat	Rabies	11
+6-Sat	County	10
+6-Sat	Mandela	10
+6-Sat	Students	10
+6-Sat	Cancer	9
+6-Sat	Case	9
+7-Sun	Cancer	18
+7-Sun	Mandela	16
+7-Sun	Health	11
+7-Sun	Joe	11
+7-Sun	New	11
+7-Sun	Weider	11
+7-Sun	Bill	10
+7-Sun	Dies	10
+7-Sun	Gates	10
+7-Sun	Nelson	10
+
+===============================
+Top Words based on Day of Month
+-----------------
+Mar 04	ADHD	1
+Mar 04	Adulthood	1
+Mar 04	Advanced	1
+Mar 04	Band	1
+Mar 04	Blood	1
+Mar 05	CDC	5
+Mar 05	FDA	4
+Mar 05	HIV	4
+Mar 05	Par	4
+Mar 05	Risk	4
+Mar 06	Study	17
+Mar 06	CPR	16
+Mar 06	CDC	13
+Mar 06	Gun	12
+Mar 06	Games	11
+Mar 07	Study	15
+Mar 07	Tuna	14
+Mar 07	New	12
+Mar 07	Bee	11
+Mar 07	Bumble	11
+Mar 08	Johnson	12
+Mar 08	&	10
+Mar 08	Tuna	10
+Mar 08	Cheese	8
+Mar 08	Food	8
+Mar 09	Study	11
+Mar 09	Cruise	9
+Mar 09	Caribbean	6
+Mar 09	Norovirus	6
+Mar 09	Restaurant	6
+Mar 10	Mandela	12
+Mar 10	Nelson	8
+Mar 10	Hospital	6
+Mar 10	Heart	5
+Mar 10	South	5
+Mar 11	Heart	8
+Mar 11	Ban	7
+Mar 11	Judge	7
+Mar 11	Mummies	7
+Mar 11	Study	7
+Mar 12	Heart	22
+Mar 12	Ban	17
+Mar 12	FDA	17
+Mar 12	New	16
+Mar 12	Soda	12
+Mar 13	Heart	21
+Mar 13	FDA	17
+Mar 13	Study	13
+Mar 13	Health	11
+Mar 13	Antibiotic	9
+Mar 14	Cancer	17
+Mar 14	FDA	17
+Mar 14	Drugs	11
+Mar 14	Breast	10
+Mar 14	Heart	10
+Mar 15	Rabies	23
+Mar 15	Transplant	14
+Mar 15	FDA	13
+Mar 15	HIV	12
+Mar 15	Cancer	11
+Mar 16	Rabies	11
+Mar 16	Students	10
+Mar 16	CPR	7
+Mar 16	Boys	6
+Mar 16	Case	6
+Mar 17	Cancer	8
+Mar 17	Kids	4
+Mar 17	Life	4
+Mar 17	Poison	4
+Mar 17	Abortion	3
+Mar 18	HPV	18
+Mar 18	New	14
+Mar 18	Health	13
+Mar 18	Study	13
+Mar 18	Cancer	12
+Mar 19	New	13
+Mar 19	Study	13
+Mar 19	Care	11
+Mar 19	Health	11
+Mar 19	Transparency	10
+Mar 20	Autism	10
+Mar 20	1	9
+Mar 20	50	8
+Mar 20	Drinks	8
+Mar 20	Deaths	7
+Mar 21	Study	4
+Mar 21	Autism	3
+Mar 21	Deaths	3
+Mar 21	Salt	3
+Mar 21	Asthma	2
+Mar 22	Deaths	16
+Mar 22	Salt	16
+Mar 22	Study	14
+Mar 22	2.3	9
+Mar 22	FDA	9
+Mar 23	Health	14
+Mar 23	County	10
+Mar 23	Bill	6
+Mar 23	Gates	6
+Mar 23	Condom	5
+Mar 24	Joe	11
+Mar 24	Weider	11
+Mar 24	Bill	10
+Mar 24	Dies	10
+Mar 24	Gates	10
+Mar 25	Solid	18
+Mar 25	Too	17
+Mar 25	Virus	17
+Mar 25	Study	13
+Mar 25	Food	12
+Mar 26	Too	9
+Mar 26	Study	8
+Mar 26	Memory	5
+Mar 26	Solid	5
+Mar 26	Soon	5
+Mar 27	FDA	7
+Mar 27	New	6
+Mar 27	Cancer	5
+Mar 27	Drug	4
+Mar 27	Prom	4
+Mar 28	Patients	13
+Mar 28	Cancer	12
+Mar 28	New	12
+Mar 28	HIV	9
+Mar 28	Doctor	8
+Mar 29	New	13
+Mar 29	Patients	13
+Mar 29	Autism	12
+Mar 29	Dentist	10
+Mar 29	HIV	10
+Mar 30	New	6
+Mar 30	Diabetes	5
+Mar 30	Mandela	5
+Mar 30	Patients	5
+Mar 30	Dental	4
+Mar 31	China	8
+Mar 31	Flu	8
+Mar 31	Bird	7
+Mar 31	South	5
+Mar 31	Africa	4
+
+===============================
+Top Words based on the Hour
+-----------------
+00-12am	Cancer	9
+00-12am	Childhood	5
+00-12am	New	5
+00-12am	Drug	4
+00-12am	Help	4
+01-01am	Cancer	8
+01-01am	Health	4
+01-01am	Study	4
+01-01am	Among	3
+01-01am	Doctors	3
+02-02am	CPR	5
+02-02am	Give	5
+02-02am	Woman	4
+02-02am	Case	3
+02-02am	HIV	3
+03-03am	New	11
+03-03am	FDA	6
+03-03am	Diabetes	5
+03-03am	HIV	5
+03-03am	2	4
+04-04am	South	6
+04-04am	HIV	5
+04-04am	Mandela	5
+04-04am	Doctor	4
+04-04am	Drug	4
+05-05am	Cancer	7
+05-05am	Risk	7
+05-05am	First	4
+05-05am	Have	4
+05-05am	Study	4
+06-06am	HIV	6
+06-06am	Kids	6
+06-06am	Cancer	5
+06-06am	New	5
+06-06am	County	4
+07-07am	Drug	10
+07-07am	Study	9
+07-07am	Deaths	6
+07-07am	Health	5
+07-07am	Linked	5
+08-08am	Study	12
+08-08am	FDA	8
+08-08am	Drug	6
+08-08am	New	6
+08-08am	About	5
+09-09am	Study	17
+09-09am	Health	12
+09-09am	Care	9
+09-09am	FDA	9
+09-09am	Can	8
+10-10am	FDA	13
+10-10am	Study	8
+10-10am	Risk	7
+10-10am	Heart	6
+10-10am	New	6
+11-11am	Study	15
+11-11am	FDA	12
+11-11am	Health	12
+11-11am	Cancer	10
+11-11am	New	10
+12-12pm	Cancer	12
+12-12pm	FDA	12
+12-12pm	Study	11
+12-12pm	Heart	10
+12-12pm	New	9
+13-01pm	New	11
+13-01pm	Cancer	10
+13-01pm	Study	8
+13-01pm	Heart	7
+13-01pm	FDA	6
+14-02pm	New	13
+14-02pm	FDA	9
+14-02pm	Study	9
+14-02pm	Cancer	8
+14-02pm	Health	7
+15-03pm	FDA	10
+15-03pm	Cancer	8
+15-03pm	CDC	6
+15-03pm	Baby	5
+15-03pm	Drug	5
+16-04pm	Study	17
+16-04pm	New	15
+16-04pm	FDA	13
+16-04pm	Risk	9
+16-04pm	Heart	8
+17-05pm	Risk	19
+17-05pm	FDA	16
+17-05pm	Study	15
+17-05pm	Heart	14
+17-05pm	Cancer	13
+18-06pm	New	22
+18-06pm	Study	9
+18-06pm	FDA	8
+18-06pm	Deadly	7
+18-06pm	Drug	7
+19-07pm	Study	12
+19-07pm	Heart	8
+19-07pm	HIV	6
+19-07pm	Patients	6
+19-07pm	Risk	6
+20-08pm	Cancer	9
+20-08pm	New	9
+20-08pm	Rabies	7
+20-08pm	Study	7
+20-08pm	Risk	6
+21-09pm	Charges	6
+21-09pm	CPR	4
+21-09pm	New	4
+21-09pm	Police	4
+21-09pm	Study	4
+22-10pm	FDA	6
+22-10pm	Health	6
+22-10pm	Study	6
+22-10pm	Drug	5
+22-10pm	Heart	4
+23-11pm	Study	9
+23-11pm	Cancer	8
+23-11pm	CDC	5
+23-11pm	New	5
+23-11pm	Risk	5
+

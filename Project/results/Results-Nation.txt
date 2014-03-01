@@ -1,0 +1,451 @@
+Category: Nation
+Top Words
+-----------------
+null	Obama	464
+null	New	355
+null	Senate	347
+null	Man	344
+null	Killed	324
+null	Police	309
+null	Gun	299
+null	Court	274
+null	Trial	265
+null	Marriage	263
+null	Case	258
+null	GOP	255
+null	Budget	248
+null	House	245
+null	Crash	243
+null	US	235
+null	2	234
+null	Shooting	226
+null	Gay	217
+null	Ohio	217
+null	Suspect	211
+null	Bill	197
+null	Dead	192
+null	School	177
+null	Paul	172
+null	Rape	171
+null	Death	168
+null	Guilty	153
+null	Found	152
+null	Colorado	149
+null	State	142
+null	Woman	141
+null	That	138
+null	Judge	137
+null	Law	134
+null	Ban	132
+null	Murder	127
+null	3	126
+null	Girl	125
+null	Fire	124
+null	NY	123
+null	Rand	123
+null	Republicans	122
+null	Arias	119
+null	Will	118
+null	Accused	116
+null	Supreme	116
+null	Immigration	112
+null	York	107
+null	Against	105
+null	White	104
+null	Charged	103
+null	Killing	103
+null	Shot	103
+null	Steubenville	103
+null	Storm	101
+null	Teen	101
+null	Kills	100
+null	NYC	100
+null	Chief	99
+null	Governor	99
+null	Into	99
+null	Snow	97
+null	Two	97
+null	Dies	95
+null	Out	95
+null	Plan	95
+null	About	93
+null	Jury	93
+null	Texas	90
+null	Abortion	89
+null	Could	89
+null	Report	89
+null	Assault	87
+null	California	86
+null	Control	86
+null	Democrats	86
+null	Day	83
+null	Years	82
+null	High	81
+null	Sen	81
+null	Set	81
+null	Mayor	80
+null	CPAC	79
+null	Lion	79
+null	Family	78
+null	Florida	78
+null	Prison	78
+null	Wife	78
+null	City	77
+null	Deal	77
+null	First	77
+null	Race	77
+null	4	76
+null	Former	76
+null	Time	76
+null	Baby	75
+null	Support	75
+null	Airport	74
+null	Arrested	74
+
+===============================
+Top Words based on Week Day
+-----------------
+1-Mon	Marriage	68
+1-Mon	Case	59
+1-Mon	Court	56
+1-Mon	Trial	56
+1-Mon	Crash	55
+1-Mon	Obama	55
+1-Mon	Gay	50
+1-Mon	New	50
+1-Mon	Man	44
+1-Mon	Killed	43
+2-Tue	Court	76
+2-Tue	Man	58
+2-Tue	Budget	57
+2-Tue	Senate	56
+2-Tue	Ohio	53
+2-Tue	Paul	53
+2-Tue	Gun	52
+2-Tue	Case	51
+2-Tue	Supreme	49
+2-Tue	Killed	47
+3-Wed	Obama	96
+3-Wed	New	82
+3-Wed	House	80
+3-Wed	Senate	80
+3-Wed	Budget	56
+3-Wed	GOP	48
+3-Wed	Gun	47
+3-Wed	Killed	47
+3-Wed	Bill	46
+3-Wed	Police	46
+4-Thu	Obama	104
+4-Thu	Senate	78
+4-Thu	Police	75
+4-Thu	New	74
+4-Thu	Gun	68
+4-Thu	Killed	49
+4-Thu	Suspect	49
+4-Thu	Man	47
+4-Thu	Trial	47
+4-Thu	Bill	45
+5-Fri	Obama	95
+5-Fri	Man	92
+5-Fri	Police	86
+5-Fri	New	75
+5-Fri	Shooting	73
+5-Fri	Gun	63
+5-Fri	Senate	63
+5-Fri	Court	60
+5-Fri	Dead	54
+5-Fri	Death	52
+6-Sat	Killed	43
+6-Sat	Obama	43
+6-Sat	2	37
+6-Sat	Crash	37
+6-Sat	Rape	33
+6-Sat	Budget	30
+6-Sat	Bus	30
+6-Sat	Man	29
+6-Sat	Shooting	29
+6-Sat	Airport	27
+7-Sun	Killed	50
+7-Sun	Crash	47
+7-Sun	Marriage	36
+7-Sun	2	34
+7-Sun	Obama	32
+7-Sun	Girl	29
+7-Sun	Man	29
+7-Sun	Dead	28
+7-Sun	Ohio	26
+7-Sun	Gay	24
+
+===============================
+Top Words based on Day of Month
+-----------------
+Mar 03	Homicide	1
+Mar 03	Identified	1
+Mar 03	Suspects	1
+Mar 03	Triple	1
+Mar 03	Victims	1
+Mar 04	Sex	3
+Mar 04	Bill	2
+Mar 04	Case	2
+Mar 04	Dominican	2
+Mar 04	Girl	2
+Mar 05	Case	6
+Mar 05	Trial	6
+Mar 05	Arias	5
+Mar 05	Defense	5
+Mar 05	Girl	5
+Mar 06	Obama	37
+Mar 06	Storm	32
+Mar 06	Senate	31
+Mar 06	TSA	29
+Mar 06	LA	28
+Mar 07	Obama	50
+Mar 07	Senate	41
+Mar 07	Gun	35
+Mar 07	Killed	34
+Mar 07	New	34
+Mar 08	Bin	31
+Mar 08	Police	27
+Mar 08	Shooting	26
+Mar 08	Court	25
+Mar 08	New	25
+Mar 09	Daylight	19
+Mar 09	Time	19
+Mar 09	Saving	15
+Mar 09	Obama	13
+Mar 09	2	11
+Mar 10	Time	11
+Mar 10	Daylight	10
+Mar 10	Saving	10
+Mar 10	Killed	7
+Mar 10	2	6
+Mar 11	Senate	19
+Mar 11	Crash	16
+Mar 11	California	15
+Mar 11	Ohio	14
+Mar 11	Shooting	14
+Mar 12	Budget	39
+Mar 12	Guilty	33
+Mar 12	Man	32
+Mar 12	Plea	31
+Mar 12	Senate	29
+Mar 13	Obama	53
+Mar 13	House	48
+Mar 13	New	39
+Mar 13	Senate	34
+Mar 13	Budget	28
+Mar 14	Police	31
+Mar 14	Obama	30
+Mar 14	CPAC	24
+Mar 14	Senate	24
+Mar 14	Trial	22
+Mar 15	Marriage	37
+Mar 15	Gay	33
+Mar 15	Obama	28
+Mar 15	CPAC	26
+Mar 15	GOP	26
+Mar 16	Rape	29
+Mar 16	Bus	28
+Mar 16	Crash	25
+Mar 16	CPAC	18
+Mar 16	Obama	17
+Mar 17	Crash	31
+Mar 17	Girl	21
+Mar 17	Obama	21
+Mar 17	Rape	20
+Mar 17	2	18
+Mar 18	Trial	42
+Mar 18	Labor	33
+Mar 18	Court	32
+Mar 18	Marriage	32
+Mar 18	Case	31
+Mar 19	Paul	36
+Mar 19	Rand	29
+Mar 19	House	26
+Mar 19	Marines	24
+Mar 19	Ohio	24
+Mar 20	School	19
+Mar 20	Marines	14
+Mar 20	Gun	13
+Mar 20	House	12
+Mar 20	Killed	12
+Mar 21	Colorado	7
+Mar 21	Law	6
+Mar 21	Bill	5
+Mar 21	Man	5
+Mar 21	FCC	4
+Mar 22	Police	36
+Mar 22	Shooting	36
+Mar 22	Base	31
+Mar 22	Texas	31
+Mar 22	Man	30
+Mar 23	Budget	22
+Mar 23	Senate	22
+Mar 23	Airport	21
+Mar 23	Killed	20
+Mar 23	Gun	13
+Mar 24	Marriage	24
+Mar 24	Shooting	18
+Mar 24	Gay	16
+Mar 24	Killed	14
+Mar 24	Powerball	14
+Mar 25	Marriage	35
+Mar 25	Powerball	33
+Mar 25	Gay	27
+Mar 25	Man	27
+Mar 25	Court	24
+Mar 26	Court	44
+Mar 26	Supreme	36
+Mar 26	Marriage	33
+Mar 26	Gay	23
+Mar 26	Gun	14
+Mar 27	Marriage	12
+Mar 27	Court	8
+Mar 27	Gay	8
+Mar 27	Senate	8
+Mar 27	New	6
+Mar 28	Newtown	27
+Mar 28	Found	23
+Mar 28	Gun	23
+Mar 28	Marriage	23
+Mar 28	Obama	23
+Mar 29	Gun	27
+Mar 29	Man	24
+Mar 29	Obama	17
+Mar 29	Slur	17
+Mar 29	New	16
+Mar 30	Man	10
+Mar 30	Teen	9
+Mar 30	Family	8
+Mar 30	Navy	8
+Mar 30	Arrested	7
+Mar 31	Texas	21
+Mar 31	Wife	19
+Mar 31	Easter	16
+Mar 31	Dead	14
+Mar 31	Found	12
+
+===============================
+Top Words based on the Hour
+-----------------
+00-12am	GOP	13
+00-12am	New	13
+00-12am	Obama	13
+00-12am	Senate	13
+00-12am	Gun	12
+01-01am	Senate	11
+01-01am	Gun	10
+01-01am	Bill	9
+01-01am	Shooting	9
+01-01am	2	8
+02-02am	Ohio	16
+02-02am	Killed	14
+02-02am	NY	13
+02-02am	Trial	12
+02-02am	Case	11
+03-03am	Trial	14
+03-03am	Budget	12
+03-03am	Senate	12
+03-03am	NY	10
+03-03am	Man	9
+04-04am	2	10
+04-04am	Police	10
+04-04am	Gun	9
+04-04am	Man	9
+04-04am	Obama	9
+05-05am	Senate	10
+05-05am	Death	8
+05-05am	Marriage	8
+05-05am	GOP	7
+05-05am	Budget	6
+06-06am	Obama	25
+06-06am	Gun	10
+06-06am	US	10
+06-06am	Budget	8
+06-06am	Crash	8
+07-07am	Obama	17
+07-07am	Marriage	15
+07-07am	GOP	13
+07-07am	Court	12
+07-07am	Crash	12
+08-08am	Killed	23
+08-08am	Obama	22
+08-08am	Police	13
+08-08am	2	12
+08-08am	Man	11
+09-09am	Man	23
+09-09am	New	21
+09-09am	Budget	19
+09-09am	Obama	18
+09-09am	Gun	16
+10-10am	Obama	29
+10-10am	Marriage	26
+10-10am	Police	26
+10-10am	Senate	23
+10-10am	Court	22
+11-11am	Obama	29
+11-11am	New	28
+11-11am	Court	27
+11-11am	Man	25
+11-11am	Senate	22
+12-12pm	Obama	40
+12-12pm	Senate	28
+12-12pm	Marriage	27
+12-12pm	House	25
+12-12pm	Court	24
+13-01pm	Obama	43
+13-01pm	House	22
+13-01pm	New	20
+13-01pm	Trial	18
+13-01pm	Budget	17
+14-02pm	Senate	24
+14-02pm	New	23
+14-02pm	House	22
+14-02pm	Court	19
+14-02pm	GOP	19
+15-03pm	Obama	39
+15-03pm	House	29
+15-03pm	Senate	28
+15-03pm	Police	24
+15-03pm	Court	21
+16-04pm	Obama	34
+16-04pm	New	25
+16-04pm	Man	24
+16-04pm	Suspect	21
+16-04pm	Senate	19
+17-05pm	New	26
+17-05pm	Obama	25
+17-05pm	Killed	24
+17-05pm	Shooting	23
+17-05pm	Court	19
+18-06pm	Crash	22
+18-06pm	Obama	21
+18-06pm	Senate	21
+18-06pm	New	19
+18-06pm	Killed	18
+19-07pm	Killed	22
+19-07pm	New	20
+19-07pm	Gun	18
+19-07pm	Man	18
+19-07pm	Police	18
+20-08pm	Police	24
+20-08pm	Killed	22
+20-08pm	2	18
+20-08pm	Man	16
+20-08pm	New	16
+21-09pm	Man	23
+21-09pm	Killed	22
+21-09pm	Senate	18
+21-09pm	Police	16
+21-09pm	Obama	15
+22-10pm	Trial	18
+22-10pm	Shooting	16
+22-10pm	Crash	15
+22-10pm	Man	15
+22-10pm	Ohio	15
+23-11pm	Police	14
+23-11pm	Gun	13
+23-11pm	Man	11
+23-11pm	2	10
+23-11pm	Case	10
+

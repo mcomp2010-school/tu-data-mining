@@ -1,0 +1,476 @@
+Category: Technology
+Top Words
+-----------------
+null	Google	687
+null	Apple	409
+null	New	341
+null	Samsung	264
+null	Facebook	261
+null	Windows	234
+null	Microsoft	217
+null	Galaxy	215
+null	Android	191
+null	IPhone	163
+null	BlackBerry	140
+null	US	129
+null	Glass	122
+null	8	120
+null	IPad	117
+null	App	115
+null	S4	112
+null	2013	111
+null	Phone	109
+null	Will	109
+null	Now	105
+null	Your	95
+null	Game	92
+null	Launch	89
+null	News	85
+null	S	83
+null	One	81
+null	SimCity	80
+null	Apple's	77
+null	Apps	77
+null	Report	77
+null	Users	76
+null	Video	76
+null	HTC	75
+null	IOS	75
+null	Gets	74
+null	Out	74
+null	Internet	72
+null	Million	72
+null	Mobile	72
+null	Reader	72
+null	T-Mobile	71
+null	2014	70
+null	China	70
+null	This	70
+null	Unveils	69
+null	Update	69
+null	About	64
+null	Security	64
+null	Tablet	64
+null	First	63
+null	Patent	63
+null	4	62
+null	Free	61
+null	Off	61
+null	Adds	60
+null	Sales	58
+null	Smartphone	58
+null	Sony	58
+null	Coming	56
+null	That	56
+null	Z10	55
+null	Next	54
+null	Twitter	54
+null	Feed	53
+null	IV	53
+null	Play	53
+null	CEO	52
+null	Shows	52
+null	AT&T	51
+null	Maps	51
+null	Samsung's	51
+null	Web	51
+null	Xperia	51
+null	Down	50
+null	Google's	50
+null	Announces	49
+null	Car	49
+null	March	49
+null	Data	48
+null	Surface	48
+null	Than	48
+null	7	47
+null	Amazon	47
+null	Could	47
+null	Show	47
+null	View	47
+null	York	47
+null	Get	46
+null	Launches	46
+null	Blue	45
+null	Can	45
+null	Drive	45
+null	5	44
+null	Privacy	44
+null	Recalls	44
+null	Big	43
+null	Offers	42
+null	Tablets	42
+null	Plans	41
+
+===============================
+Top Words based on Week Day
+-----------------
+1-Mon	Google	120
+1-Mon	New	62
+1-Mon	Apple	40
+1-Mon	Windows	40
+1-Mon	BlackBerry	33
+1-Mon	Facebook	30
+1-Mon	2014	27
+1-Mon	IPhone	27
+1-Mon	Glass	26
+1-Mon	Android	24
+2-Tue	Google	159
+2-Tue	Apple	76
+2-Tue	New	61
+2-Tue	Samsung	48
+2-Tue	Microsoft	45
+2-Tue	Facebook	36
+2-Tue	Android	35
+2-Tue	Galaxy	35
+2-Tue	IPhone	34
+2-Tue	US	33
+3-Wed	Google	144
+3-Wed	Apple	62
+3-Wed	Samsung	61
+3-Wed	Galaxy	55
+3-Wed	Microsoft	54
+3-Wed	New	54
+3-Wed	Android	50
+3-Wed	Windows	44
+3-Wed	Facebook	42
+3-Wed	US	31
+4-Thu	Google	125
+4-Thu	Apple	83
+4-Thu	New	72
+4-Thu	Samsung	68
+4-Thu	Facebook	66
+4-Thu	Galaxy	63
+4-Thu	Android	47
+4-Thu	Microsoft	44
+4-Thu	Windows	44
+4-Thu	BlackBerry	38
+5-Fri	Apple	95
+5-Fri	Google	90
+5-Fri	Samsung	66
+5-Fri	Facebook	64
+5-Fri	New	63
+5-Fri	Windows	48
+5-Fri	IPhone	47
+5-Fri	Galaxy	44
+5-Fri	Microsoft	44
+5-Fri	BlackBerry	38
+6-Sat	Google	31
+6-Sat	Apple	28
+6-Sat	Game	20
+6-Sat	Facebook	15
+6-Sat	Windows	14
+6-Sat	Free	13
+6-Sat	SimCity	13
+6-Sat	EA	11
+6-Sat	Glass	11
+6-Sat	New	11
+7-Sun	Apple	25
+7-Sun	Google	18
+7-Sun	New	18
+7-Sun	Windows	14
+7-Sun	Lenovo	13
+7-Sun	Coming	11
+7-Sun	Indoor	11
+7-Sun	ThinkPad	11
+7-Sun	IOS	9
+7-Sun	SimCity	9
+
+===============================
+Top Words based on Day of Month
+-----------------
+Feb 26	1000	1
+Feb 26	Chevrolet	1
+Feb 26	Corvette	1
+Feb 26	Hp	1
+Feb 26	Stingray	1
+Feb 27	Analyst	1
+Feb 27	Corporation	1
+Feb 27	Google	1
+Feb 27	Inc	1
+Feb 27	LinkedIn	1
+Feb 28	Battling	1
+Feb 28	Croft	1
+Feb 28	Game	1
+Feb 28	Lara	1
+Feb 28	Now	1
+Mar 01	Chromebook	2
+Mar 01	Nokia	2
+Mar 01	520	1
+Mar 01	720	1
+Mar 01	Available	1
+Mar 02	15199	1
+Mar 02	620	1
+Mar 02	@	1
+Mar 02	Lumia	1
+Mar 02	Nokia	1
+Mar 03	4.1.1	1
+Mar 03	Android	1
+Mar 03	Bean	1
+Mar 03	Big	1
+Mar 03	Buys	1
+Mar 04	Twitter	6
+Mar 04	IPhone	5
+Mar 04	TweetDeck	5
+Mar 04	BlackBerry	4
+Mar 04	House	4
+Mar 05	Google	32
+Mar 05	Android	11
+Mar 05	Apple	10
+Mar 05	IPhone	9
+Mar 05	Maps	8
+Mar 06	Google	40
+Mar 06	Microsoft	38
+Mar 06	Galaxy	25
+Mar 06	Samsung	23
+Mar 06	Apple	21
+Mar 07	Facebook	37
+Mar 07	Google	29
+Mar 07	News	27
+Mar 07	New	26
+Mar 07	Feed	24
+Mar 08	Google	42
+Mar 08	Facebook	24
+Mar 08	Samsung	24
+Mar 08	SimCity	21
+Mar 08	Motorola	20
+Mar 09	Google	14
+Mar 09	SimCity	13
+Mar 09	Free	12
+Mar 09	Game	12
+Mar 09	EA	10
+Mar 10	SimCity	6
+Mar 10	Google	5
+Mar 10	EA	4
+Mar 10	New	4
+Mar 10	Bar	3
+Mar 11	Google	18
+Mar 11	BlackBerry	12
+Mar 11	Facebook	12
+Mar 11	Glass	9
+Mar 11	Daughter	8
+Mar 12	Google	63
+Mar 12	Galaxy	30
+Mar 12	US	28
+Mar 12	Glass	26
+Mar 12	Samsung	26
+Mar 13	Google	64
+Mar 13	Galaxy	26
+Mar 13	Samsung	26
+Mar 13	Android	24
+Mar 13	Apple	24
+Mar 14	Galaxy	44
+Mar 14	Samsung	43
+Mar 14	Google	37
+Mar 14	S4	26
+Mar 14	Android	18
+Mar 15	Samsung	34
+Mar 15	Galaxy	28
+Mar 15	Surface	22
+Mar 15	Facebook	20
+Mar 15	Apple	19
+Mar 16	Google	9
+Mar 16	Toyota	9
+Mar 16	Apple	8
+Mar 16	FJ	6
+Mar 16	Mailbox	6
+Mar 17	Lenovo	12
+Mar 17	ThinkPad	11
+Mar 17	T431s	6
+Mar 17	2013	4
+Mar 17	Apple	4
+Mar 18	Google	52
+Mar 18	New	24
+Mar 18	Apple	17
+Mar 18	Drive	17
+Mar 18	BlackBerry	14
+Mar 19	Apple	38
+Mar 19	Google	34
+Mar 19	New	23
+Mar 19	Samsung	18
+Mar 19	Adobe	14
+Mar 20	Google	25
+Mar 20	Apple	12
+Mar 20	China	10
+Mar 20	Samsung	10
+Mar 20	Recalls	9
+Mar 21	Apple	22
+Mar 21	Microsoft	15
+Mar 21	Billion	11
+Mar 21	Google	11
+Mar 21	YouTube	11
+Mar 22	Apple	52
+Mar 22	IPhone	29
+Mar 22	BlackBerry	22
+Mar 22	Google	22
+Mar 22	Blizzard	21
+Mar 23	Apple	15
+Mar 23	Windows	9
+Mar 23	Google	8
+Mar 23	Security	8
+Mar 23	New	6
+Mar 24	Apple	15
+Mar 24	New	12
+Mar 24	Indoor	11
+Mar 24	Windows	10
+Mar 24	Google	9
+Mar 25	Google	48
+Mar 25	New	28
+Mar 25	Windows	21
+Mar 25	Apple	20
+Mar 25	Evernote	17
+Mar 26	Google	30
+Mar 26	T-Mobile	18
+Mar 26	New	14
+Mar 26	IPhone	13
+Mar 26	Facebook	12
+Mar 27	Google	14
+Mar 27	Windows	12
+Mar 27	New	10
+Mar 27	Gear	8
+Mar 27	Glass	8
+Mar 28	Google	48
+Mar 28	New	27
+Mar 28	Apple	22
+Mar 28	Internet	22
+Mar 28	BlackBerry	17
+Mar 29	Facebook	19
+Mar 29	New	16
+Mar 29	Windows	16
+Mar 29	Android	15
+Mar 29	8	14
+Mar 30	Reality	4
+Mar 30	Virtual	4
+Mar 30	Attack	3
+Mar 30	Attempts	3
+Mar 30	Facebook	3
+Mar 31	Apple	5
+Mar 31	IPad	5
+Mar 31	Mini	5
+Mar 31	Trademark	5
+Mar 31	Denied	4
+
+===============================
+Top Words based on the Hour
+-----------------
+00-12am	Google	12
+00-12am	Apple	10
+00-12am	Samsung	9
+00-12am	Galaxy	7
+00-12am	New	7
+01-01am	Google	12
+01-01am	New	8
+01-01am	Android	5
+01-01am	Galaxy	5
+01-01am	Samsung	5
+02-02am	Google	17
+02-02am	New	7
+02-02am	Samsung	7
+02-02am	Apple	6
+02-02am	Sony	6
+03-03am	Google	12
+03-03am	New	10
+03-03am	Galaxy	8
+03-03am	Samsung	8
+03-03am	S4	6
+04-04am	Google	8
+04-04am	HTC	7
+04-04am	Samsung	7
+04-04am	Apple	5
+04-04am	New	5
+05-05am	Google	10
+05-05am	Apple	8
+05-05am	HTC	8
+05-05am	IPad	8
+05-05am	Xperia	8
+06-06am	Google	24
+06-06am	Microsoft	15
+06-06am	Samsung	11
+06-06am	Windows	11
+06-06am	Apple	8
+07-07am	Google	21
+07-07am	Apple	18
+07-07am	Samsung	11
+07-07am	Microsoft	9
+07-07am	New	9
+08-08am	Google	32
+08-08am	Apple	25
+08-08am	New	20
+08-08am	IPhone	15
+08-08am	Samsung	12
+09-09am	Google	47
+09-09am	Apple	28
+09-09am	Galaxy	21
+09-09am	New	21
+09-09am	Samsung	20
+10-10am	Google	45
+10-10am	Apple	36
+10-10am	New	29
+10-10am	Windows	18
+10-10am	BlackBerry	17
+11-11am	Google	63
+11-11am	Apple	32
+11-11am	New	26
+11-11am	Windows	26
+11-11am	Samsung	25
+12-12pm	Google	46
+12-12pm	Apple	35
+12-12pm	Microsoft	20
+12-12pm	New	17
+12-12pm	Windows	17
+13-01pm	Google	48
+13-01pm	New	35
+13-01pm	Apple	27
+13-01pm	Windows	21
+13-01pm	Microsoft	20
+14-02pm	Google	35
+14-02pm	Apple	26
+14-02pm	New	19
+14-02pm	Facebook	17
+14-02pm	Microsoft	17
+15-03pm	Google	48
+15-03pm	Apple	23
+15-03pm	Facebook	19
+15-03pm	New	19
+15-03pm	Microsoft	17
+16-04pm	Google	30
+16-04pm	Apple	23
+16-04pm	Facebook	18
+16-04pm	New	16
+16-04pm	Android	15
+17-05pm	Google	34
+17-05pm	Facebook	19
+17-05pm	Apple	15
+17-05pm	Android	13
+17-05pm	New	12
+18-06pm	Google	31
+18-06pm	Facebook	26
+18-06pm	Apple	22
+18-06pm	New	20
+18-06pm	Galaxy	11
+19-07pm	Google	32
+19-07pm	Apple	16
+19-07pm	Facebook	14
+19-07pm	Samsung	13
+19-07pm	New	10
+20-08pm	Google	30
+20-08pm	Facebook	16
+20-08pm	Apple	15
+20-08pm	New	15
+20-08pm	Microsoft	10
+21-09pm	Google	23
+21-09pm	Samsung	11
+21-09pm	Facebook	10
+21-09pm	New	10
+21-09pm	Galaxy	8
+22-10pm	Google	11
+22-10pm	Apple	9
+22-10pm	Facebook	7
+22-10pm	8	6
+22-10pm	Twitter	6
+23-11pm	Samsung	18
+23-11pm	Google	16
+23-11pm	Galaxy	11
+23-11pm	Windows	9
+23-11pm	New	8
+

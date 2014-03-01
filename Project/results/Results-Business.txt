@@ -1,0 +1,456 @@
+Category: Business
+Top Words
+-----------------
+null	Cyprus	629
+null	US	455
+null	Stocks	314
+null	Shares	211
+null	New	210
+null	Bank	200
+null	Deal	192
+null	Euro	190
+null	Bailout	178
+null	China	173
+null	Rise	167
+null	Boeing	161
+null	Record	150
+null	Jobs	147
+null	Data	145
+null	High	145
+null	Tax	142
+null	Sales	140
+null	Stock	134
+null	Banks	130
+null	Oil	129
+null	CEO	120
+null	Dow	116
+null	Report	115
+null	Dollar	109
+null	Futures	109
+null	Million	108
+null	Dell	107
+null	Down	105
+null	Gains	105
+null	Falls	104
+null	Growth	104
+null	U.S	98
+null	S&P	97
+null	UPDATE	97
+null	787	95
+null	Fed	95
+null	Rally	95
+null	Rate	92
+null	Plan	91
+null	Yen	90
+null	Higher	89
+null	Wall	89
+null	Fall	88
+null	Time	86
+null	Prices	85
+null	Will	85
+null	Street	84
+null	February	83
+null	Out	83
+null	Rises	82
+null	Jobless	79
+null	Economy	78
+null	News	77
+null	Billion	75
+null	Unemployment	75
+null	Buy	73
+null	Claims	73
+null	Profit	73
+null	Cuts	68
+null	Asian	67
+null	ECB	65
+null	Gain	65
+null	Japan	65
+null	Before	64
+null	Than	64
+null	About	63
+null	Drop	63
+null	EU	63
+null	Gas	63
+null	Home	63
+null	Market	63
+null	Since	63
+null	Investors	62
+null	500	61
+null	Back	61
+null	Consumer	61
+null	Global	61
+null	Hits	61
+null	JPMorgan	60
+null	Low	60
+null	Sale	60
+null	Europe	59
+null	Battery	58
+null	Big	58
+null	Could	58
+null	Off	58
+null	Icahn	57
+null	Still	57
+null	BOJ	56
+null	Lower	56
+null	Year	56
+null	Crisis	55
+null	Open	55
+null	Percent	55
+null	Debt	54
+null	March	53
+null	Most	53
+null	Pay	53
+null	Rates	53
+
+===============================
+Top Words based on Week Day
+-----------------
+1-Mon	Cyprus	185
+1-Mon	Deal	62
+1-Mon	Bailout	57
+1-Mon	Stocks	45
+1-Mon	Shares	39
+1-Mon	US	38
+1-Mon	Euro	34
+1-Mon	Dell	30
+1-Mon	China	29
+1-Mon	Bank	27
+2-Tue	Cyprus	108
+2-Tue	US	59
+2-Tue	Bank	48
+2-Tue	Shares	42
+2-Tue	Stocks	42
+2-Tue	Boeing	41
+2-Tue	Euro	39
+2-Tue	Tax	34
+2-Tue	New	33
+2-Tue	Deal	29
+3-Wed	Stocks	77
+3-Wed	US	76
+3-Wed	Cyprus	58
+3-Wed	Sales	53
+3-Wed	Euro	42
+3-Wed	Bank	41
+3-Wed	Retail	41
+3-Wed	Dow	38
+3-Wed	Record	38
+3-Wed	Stock	38
+4-Thu	US	120
+4-Thu	Stocks	61
+4-Thu	Banks	55
+4-Thu	New	50
+4-Thu	Jobless	49
+4-Thu	Claims	48
+4-Thu	Cyprus	48
+4-Thu	High	45
+4-Thu	Record	43
+4-Thu	Rise	43
+5-Fri	US	133
+5-Fri	Cyprus	103
+5-Fri	Jobs	70
+5-Fri	Stocks	70
+5-Fri	Boeing	50
+5-Fri	China	50
+5-Fri	Data	44
+5-Fri	New	43
+5-Fri	Shares	42
+5-Fri	Report	40
+6-Sat	Cyprus	49
+6-Sat	Bailout	28
+6-Sat	Bank	15
+6-Sat	Down	13
+6-Sat	New	13
+6-Sat	China	12
+6-Sat	Deal	11
+6-Sat	Jobs	10
+6-Sat	Rate	10
+6-Sat	US	10
+7-Sun	Cyprus	78
+7-Sun	Bailout	26
+7-Sun	Deal	25
+7-Sun	Oil	24
+7-Sun	New	21
+7-Sun	China	19
+7-Sun	US	19
+7-Sun	Arkansas	18
+7-Sun	Delivery	18
+7-Sun	Talks	18
+
+===============================
+Top Words based on Day of Month
+-----------------
+Mar 01	787	1
+Mar 01	Airlines	1
+Mar 01	Canceled	1
+Mar 01	Concern	1
+Mar 01	Flights	1
+Mar 03	Japan's	2
+Mar 03	10-Week	1
+Mar 03	Arrives	1
+Mar 03	Bonds	1
+Mar 03	Comments	1
+Mar 04	BOJ	3
+Mar 04	Kuroda	3
+Mar 04	Crude	2
+Mar 04	Japan	2
+Mar 04	Nominee	2
+Mar 05	Dollar	5
+Mar 05	Dow	5
+Mar 05	European	5
+Mar 05	List	5
+Mar 05	New	5
+Mar 06	Stocks	42
+Mar 06	US	40
+Mar 06	Record	34
+Mar 06	Dow	31
+Mar 06	Time	24
+Mar 07	US	43
+Mar 07	ECB	29
+Mar 07	Time	28
+Mar 07	Stocks	26
+Mar 07	Claims	20
+Mar 08	Jobs	57
+Mar 08	US	56
+Mar 08	Stocks	27
+Mar 08	Data	21
+Mar 08	Dollar	20
+Mar 09	Jobs	7
+Mar 09	Data	6
+Mar 09	Unemployment	6
+Mar 09	Foods	5
+Mar 09	Rate	5
+Mar 10	Japan	5
+Mar 10	Yen	5
+Mar 10	Data	4
+Mar 10	Dollar	4
+Mar 10	US	4
+Mar 11	China	12
+Mar 11	SEC	12
+Mar 11	Yen	12
+Mar 11	Fraud	9
+Mar 11	CEO	8
+Mar 12	Shares	24
+Mar 12	US	24
+Mar 12	Yen	22
+Mar 12	Stocks	21
+Mar 12	Autonomy	18
+Mar 13	Sales	47
+Mar 13	Retail	39
+Mar 13	US	29
+Mar 13	Tax	17
+Mar 13	Stocks	16
+Mar 14	US	38
+Mar 14	Stocks	19
+Mar 14	Record	18
+Mar 14	AEG	16
+Mar 14	Dow	16
+Mar 15	US	38
+Mar 15	Boeing	33
+Mar 15	Stocks	27
+Mar 15	Consumer	25
+Mar 15	JPMorgan	21
+Mar 16	Cyprus	18
+Mar 16	Bailout	17
+Mar 16	Bank	7
+Mar 16	787	6
+Mar 16	Deal	6
+Mar 17	Cyprus	31
+Mar 17	Amtrak	13
+Mar 17	Bailout	11
+Mar 17	Bank	10
+Mar 17	China	10
+Mar 18	Cyprus	103
+Mar 18	Bailout	28
+Mar 18	Bank	19
+Mar 18	Deal	18
+Mar 18	CEO	16
+Mar 19	Cyprus	89
+Mar 19	Bank	25
+Mar 19	Ryanair	25
+Mar 19	Boeing	24
+Mar 19	Bailout	22
+Mar 20	Cyprus	52
+Mar 20	Stocks	18
+Mar 20	Global	17
+Mar 20	Fed	16
+Mar 20	Bank	15
+Mar 21	US	12
+Mar 21	Chartered	10
+Mar 21	Standard	10
+Mar 21	Cyprus	9
+Mar 21	Nike	9
+Mar 22	Cyprus	84
+Mar 22	Nike	21
+Mar 22	Shares	21
+Mar 22	Software	18
+Mar 22	Deal	17
+Mar 23	Cyprus	27
+Mar 23	Bailout	11
+Mar 23	Dell	9
+Mar 23	Down	9
+Mar 23	Lean	8
+Mar 24	Cyprus	46
+Mar 24	Deal	19
+Mar 24	Delivery	17
+Mar 24	Bailout	15
+Mar 24	Postal	15
+Mar 25	Cyprus	82
+Mar 25	Deal	44
+Mar 25	Bailout	29
+Mar 25	Dell	24
+Mar 25	Stocks	23
+Mar 26	Cyprus	19
+Mar 26	Home	15
+Mar 26	Prices	14
+Mar 26	US	12
+Mar 26	Bank	10
+Mar 27	Euro	7
+Mar 27	Cyprus	5
+Mar 27	Berlin	4
+Mar 27	Bitcoin	4
+Mar 27	Fall	4
+Mar 28	Cyprus	38
+Mar 28	Banks	31
+Mar 28	US	27
+Mar 28	S&P	20
+Mar 28	500	19
+Mar 29	US	24
+Mar 29	Landslide	18
+Mar 29	Goodreads	16
+Mar 29	SAC	16
+Mar 29	Amazon	15
+Mar 30	Pipeline	7
+Mar 30	Argentina	4
+Mar 30	Cyprus	4
+Mar 30	Rate	4
+Mar 30	Tibet	4
+Mar 31	Oil	20
+Mar 31	Arkansas	18
+Mar 31	Exxon	14
+Mar 31	Keystone	13
+Mar 31	Pipeline	13
+
+===============================
+Top Words based on the Hour
+-----------------
+00-12am	Cyprus	17
+00-12am	US	12
+00-12am	New	11
+00-12am	China	9
+00-12am	Euro	9
+01-01am	Cyprus	16
+01-01am	US	14
+01-01am	China	12
+01-01am	Oil	11
+01-01am	Stocks	11
+02-02am	Cyprus	15
+02-02am	China	9
+02-02am	Shares	9
+02-02am	Deal	8
+02-02am	Jobs	8
+03-03am	Cyprus	26
+03-03am	Shares	15
+03-03am	China	14
+03-03am	US	13
+03-03am	Tax	10
+04-04am	Cyprus	31
+04-04am	Stocks	14
+04-04am	Shares	13
+04-04am	US	13
+04-04am	Euro	12
+05-05am	Cyprus	32
+05-05am	Stocks	15
+05-05am	Euro	12
+05-05am	Bank	11
+05-05am	China	11
+06-06am	Cyprus	30
+06-06am	Bank	16
+06-06am	US	15
+06-06am	China	12
+06-06am	German	11
+07-07am	Cyprus	35
+07-07am	Bank	16
+07-07am	Futures	16
+07-07am	Stock	15
+07-07am	US	13
+08-08am	Cyprus	42
+08-08am	US	42
+08-08am	Futures	29
+08-08am	Stock	23
+08-08am	Data	16
+09-09am	US	45
+09-09am	Cyprus	37
+09-09am	Stocks	30
+09-09am	Rise	25
+09-09am	Data	19
+10-10am	US	51
+10-10am	Stocks	34
+10-10am	Cyprus	24
+10-10am	Oil	19
+10-10am	Record	18
+11-11am	Stocks	33
+11-11am	US	28
+11-11am	Cyprus	24
+11-11am	Record	15
+11-11am	Euro	14
+12-12pm	US	34
+12-12pm	Cyprus	32
+12-12pm	Stocks	26
+12-12pm	Euro	18
+12-12pm	Deal	17
+13-01pm	Cyprus	30
+13-01pm	Deal	14
+13-01pm	US	13
+13-01pm	Boeing	11
+13-01pm	New	11
+14-02pm	US	28
+14-02pm	Cyprus	26
+14-02pm	Stocks	16
+14-02pm	New	15
+14-02pm	Fed	12
+15-03pm	Cyprus	29
+15-03pm	US	28
+15-03pm	Tax	15
+15-03pm	Bank	13
+15-03pm	New	11
+16-04pm	Cyprus	35
+16-04pm	Stocks	29
+16-04pm	Dow	24
+16-04pm	US	24
+16-04pm	S&P	17
+17-05pm	Cyprus	26
+17-05pm	US	16
+17-05pm	Boeing	13
+17-05pm	Sales	10
+17-05pm	Stocks	10
+18-06pm	Cyprus	15
+18-06pm	US	10
+18-06pm	Boeing	9
+18-06pm	Dell	9
+18-06pm	Fed	9
+19-07pm	Cyprus	26
+19-07pm	New	15
+19-07pm	CEO	14
+19-07pm	US	12
+19-07pm	Bailout	9
+20-08pm	Cyprus	25
+20-08pm	Asian	12
+20-08pm	Shares	12
+20-08pm	Bailout	10
+20-08pm	Fed	10
+21-09pm	Cyprus	19
+21-09pm	US	11
+21-09pm	Nikkei	10
+21-09pm	Bank	9
+21-09pm	Shares	8
+22-10pm	Cyprus	15
+22-10pm	China	10
+22-10pm	Shares	8
+22-10pm	Yen	8
+22-10pm	Asian	6
+23-11pm	Cyprus	22
+23-11pm	Asian	16
+23-11pm	Shares	12
+23-11pm	Euro	11
+23-11pm	Yen	11
+

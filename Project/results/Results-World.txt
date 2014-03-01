@@ -1,0 +1,455 @@
+Category: World
+Top Words
+-----------------
+null	Pope	558
+null	US	457
+null	New	389
+null	Syria	374
+null	Syrian	311
+null	UN	299
+null	Francis	272
+null	Korea	265
+null	Obama	262
+null	Israel	238
+null	North	235
+null	India	231
+null	President	228
+null	Attack	216
+null	Rebels	216
+null	Police	210
+null	Killed	189
+null	Death	171
+null	China	162
+null	Leader	158
+null	Court	149
+null	Government	149
+null	South	149
+null	Vote	146
+null	First	145
+null	Visit	145
+null	Will	145
+null	Day	143
+null	Iraq	137
+null	Pakistan	136
+null	Opposition	135
+null	Election	133
+null	Dead	132
+null	Israeli	129
+null	Italy	129
+null	War	126
+null	Marines	125
+null	Talks	124
+null	Chavez	116
+null	Against	115
+null	Italian	114
+null	PM	112
+null	Conclave	111
+null	Egypt	106
+null	EU	105
+null	Kills	104
+null	Cardinals	102
+null	Vatican	98
+null	Iran	97
+null	Out	97
+null	Afghanistan	92
+null	African	91
+null	Kenya	90
+null	Troops	89
+null	Peace	88
+null	Arms	87
+null	Deal	87
+null	Central	86
+null	China's	86
+null	Nuclear	86
+null	British	85
+null	Found	85
+null	Venezuela	85
+null	Into	84
+null	Minister	84
+null	Bomb	82
+null	Suicide	80
+null	2	79
+null	Afghan	79
+null	Leaders	79
+null	Peacekeepers	79
+null	Hugo	77
+null	Return	77
+null	Kill	75
+null	Taliban	74
+null	Military	73
+null	Top	72
+null	Two	72
+null	Case	70
+null	Pistorius	69
+null	St	68
+null	Tourist	68
+null	Trip	68
+null	Violence	68
+null	Berezovsky	67
+null	French	67
+null	Amid	66
+null	Attacks	66
+null	Least	66
+null	Myanmar	66
+null	Rape	66
+null	Russia	66
+null	UK	66
+null	End	65
+null	Helicopter	65
+null	Xi	65
+null	Kerry	64
+null	Musharraf	64
+null	Sanctions	64
+null	Swiss	64
+
+===============================
+Top Words based on Week Day
+-----------------
+1-Mon	US	90
+1-Mon	Court	42
+1-Mon	New	41
+1-Mon	Syria	39
+1-Mon	India	38
+1-Mon	Dead	36
+1-Mon	Talks	35
+1-Mon	Opposition	34
+1-Mon	Pope	33
+1-Mon	Syrian	33
+2-Tue	Pope	86
+2-Tue	US	77
+2-Tue	India	63
+2-Tue	Syria	61
+2-Tue	New	48
+2-Tue	Chemical	40
+2-Tue	Killed	40
+2-Tue	Marines	40
+2-Tue	Francis	39
+2-Tue	Syrian	39
+3-Wed	Pope	126
+3-Wed	UN	64
+3-Wed	New	62
+3-Wed	US	59
+3-Wed	Syrian	54
+3-Wed	Syria	51
+3-Wed	Korea	48
+3-Wed	Israel	47
+3-Wed	Francis	46
+3-Wed	Cardinals	43
+4-Thu	UN	87
+4-Thu	Pope	81
+4-Thu	US	72
+4-Thu	Korea	70
+4-Thu	New	63
+4-Thu	Syrian	57
+4-Thu	North	56
+4-Thu	Syria	54
+4-Thu	Attack	52
+4-Thu	Francis	41
+5-Fri	Pope	96
+5-Fri	New	85
+5-Fri	Obama	83
+5-Fri	UN	79
+5-Fri	US	79
+5-Fri	Syria	75
+5-Fri	Korea	65
+5-Fri	North	62
+5-Fri	Israel	56
+5-Fri	Syrian	56
+6-Sat	Pope	72
+6-Sat	New	49
+6-Sat	Francis	43
+6-Sat	US	40
+6-Sat	Visit	39
+6-Sat	Syria	36
+6-Sat	Election	35
+6-Sat	Death	34
+6-Sat	UN	34
+6-Sat	Pakistan	32
+7-Sun	Pope	64
+7-Sun	Police	58
+7-Sun	Syria	58
+7-Sun	Leader	46
+7-Sun	Opposition	45
+7-Sun	Syrian	45
+7-Sun	Francis	42
+7-Sun	New	41
+7-Sun	Iraq	40
+7-Sun	US	40
+
+===============================
+Top Words based on Day of Month
+-----------------
+Mar 02	Buses	1
+Mar 02	Launches	1
+Mar 02	Ministry	1
+Mar 02	Palestinians only	1
+Mar 03	Buses	3
+Mar 03	Israel	3
+Mar 03	Launches	3
+Mar 03	Palestinians only	2
+Mar 03	Reports	2
+Mar 04	Biden	7
+Mar 04	Iran	5
+Mar 04	Nuclear	5
+Mar 04	UN	5
+Mar 04	US	5
+Mar 05	Pistorius	6
+Mar 05	Afghanistan	5
+Mar 05	Oscar	5
+Mar 05	Police	5
+Mar 05	Chavez	4
+Mar 06	UN	43
+Mar 06	Syrian	31
+Mar 06	Chavez	25
+Mar 06	US	24
+Mar 06	Cardinals	22
+Mar 07	UN	62
+Mar 07	Korea	36
+Mar 07	North	36
+Mar 07	Peacekeepers	29
+Mar 07	Sanctions	26
+Mar 08	UN	34
+Mar 08	Chavez	29
+Mar 08	Funeral	27
+Mar 08	Election	23
+Mar 08	Kenya	22
+Mar 09	UN	28
+Mar 09	Election	25
+Mar 09	Hagel	21
+Mar 09	Syria	16
+Mar 09	Venezuela	16
+Mar 10	Leader	18
+Mar 10	Opposition	18
+Mar 10	US	13
+Mar 10	China	10
+Mar 10	Kyi	10
+Mar 11	US	18
+Mar 11	Dead	15
+Mar 11	Pigs	12
+Mar 11	Korea	11
+Mar 11	North	11
+Mar 12	Marines	36
+Mar 12	Pope	36
+Mar 12	India	32
+Mar 12	Conclave	28
+Mar 12	Cardinals	23
+Mar 13	Pope	110
+Mar 13	New	50
+Mar 13	Francis	40
+Mar 13	Smoke	34
+Mar 13	Attack	26
+Mar 14	Pope	49
+Mar 14	New	33
+Mar 14	Francis	30
+Mar 14	EU	21
+Mar 14	Attack	20
+Mar 15	Pope	58
+Mar 15	New	51
+Mar 15	US	43
+Mar 15	Francis	37
+Mar 15	Carnival	25
+Mar 16	New	29
+Mar 16	Pope	29
+Mar 16	India	22
+Mar 16	Francis	20
+Mar 16	St	20
+Mar 17	Pope	32
+Mar 17	Swiss	29
+Mar 17	Police	28
+Mar 17	New	23
+Mar 17	Francis	22
+Mar 18	US	42
+Mar 18	New	33
+Mar 18	Press	31
+Mar 18	India	28
+Mar 18	Helicopter	26
+Mar 19	Pope	45
+Mar 19	Chemical	39
+Mar 19	US	39
+Mar 19	Syria	36
+Mar 19	Iraq	35
+Mar 20	Obama	36
+Mar 20	Israel	30
+Mar 20	US	27
+Mar 20	South	16
+Mar 20	DMK	15
+Mar 21	Obama	8
+Mar 21	Berlin	6
+Mar 21	Sarkozy	6
+Mar 21	Crash	5
+Mar 21	Dies	5
+Mar 22	Obama	64
+Mar 22	Israel	39
+Mar 22	Marines	33
+Mar 22	Syria	30
+Mar 22	President	27
+Mar 23	Pope	32
+Mar 23	Francis	23
+Mar 23	Obama	21
+Mar 23	Death	16
+Mar 23	Found	15
+Mar 24	Syria	44
+Mar 24	Syrian	35
+Mar 24	Iraq	27
+Mar 24	Kerry	27
+Mar 24	Musharraf	27
+Mar 25	US	25
+Mar 25	African	23
+Mar 25	Kerry	22
+Mar 25	Syrian	21
+Mar 25	Rebel	20
+Mar 26	Knox	15
+Mar 26	Afghanistan	12
+Mar 26	Arab	12
+Mar 26	Opposition	12
+Mar 26	Police	12
+Mar 27	UN	14
+Mar 27	Arms	8
+Mar 27	Google	7
+Mar 27	Syrian	7
+Mar 27	Trade	7
+Mar 28	US	33
+Mar 28	Korea	32
+Mar 28	Pistorius	28
+Mar 28	Mandela	25
+Mar 28	South	23
+Mar 29	North	25
+Mar 29	Good	24
+Mar 29	Friday	22
+Mar 29	US	22
+Mar 29	Mandela	21
+Mar 30	Attack	10
+Mar 30	Pakistan	10
+Mar 30	US	9
+Mar 30	Killed	8
+Mar 30	Collapse	6
+Mar 31	Easter	22
+Mar 31	Pope	16
+Mar 31	Modi	13
+Mar 31	BJP	11
+Mar 31	Francis	11
+
+===============================
+Top Words based on the Hour
+-----------------
+00-12am	US	17
+00-12am	China	16
+00-12am	New	14
+00-12am	India	11
+00-12am	Korea	11
+01-01am	China	18
+01-01am	New	18
+01-01am	Pope	15
+01-01am	Killed	12
+01-01am	Attack	11
+02-02am	India	14
+02-02am	Pakistan	13
+02-02am	New	12
+02-02am	Korea	11
+02-02am	UN	11
+03-03am	US	22
+03-03am	Syria	16
+03-03am	Death	13
+03-03am	India	13
+03-03am	Attack	12
+04-04am	US	28
+04-04am	UN	18
+04-04am	India	17
+04-04am	Pope	17
+04-04am	New	15
+05-05am	US	28
+05-05am	Korea	24
+05-05am	Pope	22
+05-05am	North	16
+05-05am	Syria	15
+06-06am	Pope	26
+06-06am	US	21
+06-06am	Syria	19
+06-06am	India	18
+06-06am	Police	18
+07-07am	Pope	35
+07-07am	US	28
+07-07am	President	24
+07-07am	Attack	19
+07-07am	Syria	18
+08-08am	Attack	26
+08-08am	Syria	25
+08-08am	Syrian	25
+08-08am	Pope	24
+08-08am	Israel	18
+09-09am	US	31
+09-09am	Syria	27
+09-09am	Pope	24
+09-09am	Police	23
+09-09am	Israel	19
+10-10am	Syrian	26
+10-10am	New	25
+10-10am	US	19
+10-10am	Pope	18
+10-10am	Israel	16
+11-11am	Pope	35
+11-11am	New	27
+11-11am	Syrian	23
+11-11am	Francis	20
+11-11am	Syria	20
+12-12pm	Syria	28
+12-12pm	New	23
+12-12pm	US	23
+12-12pm	Pope	22
+12-12pm	Israel	17
+13-01pm	Pope	23
+13-01pm	New	21
+13-01pm	Syria	19
+13-01pm	Syrian	16
+13-01pm	US	16
+14-02pm	Pope	33
+14-02pm	US	21
+14-02pm	Syrian	18
+14-02pm	Rebels	17
+14-02pm	Francis	16
+15-03pm	Pope	29
+15-03pm	US	23
+15-03pm	Syria	22
+15-03pm	Syrian	21
+15-03pm	New	18
+16-04pm	Pope	47
+16-04pm	Syria	23
+16-04pm	UN	23
+16-04pm	New	22
+16-04pm	Francis	20
+17-05pm	Pope	32
+17-05pm	New	18
+17-05pm	Francis	17
+17-05pm	Syrian	16
+17-05pm	Obama	15
+18-06pm	Pope	25
+18-06pm	Francis	15
+18-06pm	Obama	14
+18-06pm	US	14
+18-06pm	Syria	12
+19-07pm	Pope	35
+19-07pm	New	22
+19-07pm	US	20
+19-07pm	Francis	18
+19-07pm	Syria	15
+20-08pm	US	25
+20-08pm	Syria	19
+20-08pm	Pope	18
+20-08pm	UN	17
+20-08pm	Syrian	15
+21-09pm	US	23
+21-09pm	Pope	20
+21-09pm	Korea	13
+21-09pm	New	13
+21-09pm	North	13
+22-10pm	Pope	16
+22-10pm	US	13
+22-10pm	Korea	11
+22-10pm	New	10
+22-10pm	North	10
+23-11pm	New	17
+23-11pm	Pope	14
+23-11pm	Death	9
+23-11pm	President	9
+23-11pm	Obama	8
+

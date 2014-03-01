@@ -1,0 +1,30 @@
+[Box:  - ::org.database]
+X=840
+Y=40
+
+[Box:  - ::org.database.controllers]
+X=1045
+Y=40
+
+[Box:  - ::org.enums]
+X=430
+Y=40
+
+[Box:  - ::org.rss]
+X=225
+Y=40
+
+[Box:  - ::org.shared]
+X=635
+Y=40
+
+[Box:  - ::org.shared.performance]
+X=20
+Y=40
+
+[Diagram: ]
+OffsetX=0
+OffsetY=0
+Visibility=0
+ShowAssoc=0
+

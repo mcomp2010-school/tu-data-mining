@@ -1,0 +1,52 @@
+{
+  "C:\\Users\\manny01\\Documents_main\\workspace\\MainProgramming\\Eclipse_Projects\\Cosc757_Data Mining\\Assignment1\\src": {
+    "location": "C:\\Users\\manny01\\Documents_main\\workspace\\MainProgramming\\Eclipse_Projects\\Cosc757_Data Mining\\Assignment1\\src",
+    "status": "UNRESOLVED",
+    "error": "No class path info available for \u0027C:\\Users\\manny01\\Documents_main\\workspace\\MainProgramming\\Eclipse_Projects\\Cosc757_Data Mining\\Assignment1\\src\u0027. Skipped."
+  },
+  "C:\\Program Files\\Java\\jre7\\lib\\rt.jar": {
+    "coordinate": "jre:jre:zip:call:1.0.0",
+    "location": "C:\\Program Files\\Java\\jre7\\lib\\rt.jar",
+    "status": "RESOLVED"
+  },
+  "C:\\Users\\manny01\\Documents_main\\workspace\\MainProgramming\\Eclipse_Projects\\Cosc757_Data Mining\\Project\\lib\\rome-1.0.jar": {
+    "location": "C:\\Users\\manny01\\Documents_main\\workspace\\MainProgramming\\Eclipse_Projects\\Cosc757_Data Mining\\Project\\lib\\rome-1.0.jar",
+    "status": "UNRESOLVED",
+    "error": "No call model found for \u0027C:\\Users\\manny01\\Documents_main\\workspace\\MainProgramming\\Eclipse_Projects\\Cosc757_Data Mining\\Project\\lib\\rome-1.0.jar\u0027. Neither fingerprint \u0027681104ed3e525037272533218185afbea3e40d04\u0027 nor symbolic name \u0027rome.rome\u0027 are known."
+  },
+  "C:\\Users\\manny01\\Documents_main\\workspace\\MainProgramming\\Eclipse_Projects\\Cosc757_Data Mining\\Project\\src": {
+    "location": "C:\\Users\\manny01\\Documents_main\\workspace\\MainProgramming\\Eclipse_Projects\\Cosc757_Data Mining\\Project\\src",
+    "status": "UNRESOLVED",
+    "error": "No class path info available for \u0027C:\\Users\\manny01\\Documents_main\\workspace\\MainProgramming\\Eclipse_Projects\\Cosc757_Data Mining\\Project\\src\u0027. Skipped."
+  },
+  "C:\\Users\\manny01\\Documents_main\\workspace\\MainProgramming\\Eclipse_Projects\\Cosc757_Data Mining\\Project\\lib\\commons-lang3-3.1.jar": {
+    "location": "C:\\Users\\manny01\\Documents_main\\workspace\\MainProgramming\\Eclipse_Projects\\Cosc757_Data Mining\\Project\\lib\\commons-lang3-3.1.jar",
+    "status": "UNRESOLVED",
+    "error": "No call model found for \u0027C:\\Users\\manny01\\Documents_main\\workspace\\MainProgramming\\Eclipse_Projects\\Cosc757_Data Mining\\Project\\lib\\commons-lang3-3.1.jar\u0027. Neither fingerprint \u0027905075e6c80f206bbe6cf1e809d2caa69f420c76\u0027 nor symbolic name \u0027org.apache.commons.lang3\u0027 are known."
+  },
+  "C:\\Users\\manny01\\Documents_main\\workspace\\MainProgramming\\Eclipse_Projects\\Cosc757_Data Mining\\Project\\lib\\commons-collections-3.2.1.jar": {
+    "coordinate": "org.apache.commons:org.apache.commons.collections:zip:call:3.0.0",
+    "location": "C:\\Users\\manny01\\Documents_main\\workspace\\MainProgramming\\Eclipse_Projects\\Cosc757_Data Mining\\Project\\lib\\commons-collections-3.2.1.jar",
+    "status": "RESOLVED"
+  },
+  "C:\\Users\\manny01\\Documents_main\\workspace\\MainProgramming\\Eclipse_Projects\\Cosc757_Data Mining\\Project\\lib\\opennlp-tools-1.5.2-incubating.jar": {
+    "location": "C:\\Users\\manny01\\Documents_main\\workspace\\MainProgramming\\Eclipse_Projects\\Cosc757_Data Mining\\Project\\lib\\opennlp-tools-1.5.2-incubating.jar",
+    "status": "UNRESOLVED",
+    "error": "No call model found for \u0027C:\\Users\\manny01\\Documents_main\\workspace\\MainProgramming\\Eclipse_Projects\\Cosc757_Data Mining\\Project\\lib\\opennlp-tools-1.5.2-incubating.jar\u0027. Neither fingerprint \u002762498cdbae010a7251f69d95bd15b53f20f2571a\u0027 nor symbolic name \u0027org.apache.opennlp.tools\u0027 are known."
+  },
+  "C:\\Users\\manny01\\Documents_main\\workspace\\MainProgramming\\Eclipse_Projects\\Cosc757_Data Mining\\Project\\lib\\commons-io-2.4.jar": {
+    "coordinate": "org.apache.commons:org.apache.commons.io:zip:call:2.0.0",
+    "location": "C:\\Users\\manny01\\Documents_main\\workspace\\MainProgramming\\Eclipse_Projects\\Cosc757_Data Mining\\Project\\lib\\commons-io-2.4.jar",
+    "status": "RESOLVED"
+  },
+  "C:\\Users\\manny01\\Documents_main\\workspace\\MainProgramming\\Eclipse_Projects\\Cosc757_Data Mining\\Data1\\Project\\src": {
+    "location": "C:\\Users\\manny01\\Documents_main\\workspace\\MainProgramming\\Eclipse_Projects\\Cosc757_Data Mining\\Data1\\Project\\src",
+    "status": "UNRESOLVED",
+    "error": "No class path info available for \u0027C:\\Users\\manny01\\Documents_main\\workspace\\MainProgramming\\Eclipse_Projects\\Cosc757_Data Mining\\Data1\\Project\\src\u0027. Skipped."
+  },
+  "C:\\Users\\manny01\\Documents_main\\workspace\\MainProgramming\\Eclipse_Projects\\Cosc757_Data Mining\\Data1\\Project\\lib\\commons-io-2.4.jar": {
+    "coordinate": "org.apache.commons:org.apache.commons.io:zip:call:2.0.0",
+    "location": "C:\\Users\\manny01\\Documents_main\\workspace\\MainProgramming\\Eclipse_Projects\\Cosc757_Data Mining\\Data1\\Project\\lib\\commons-io-2.4.jar",
+    "status": "RESOLVED"
+  }
+}

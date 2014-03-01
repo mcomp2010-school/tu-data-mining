@@ -1,0 +1,3 @@
+Fruit,SphereShare,Sweet,Sour,Crunchy
+Apple,y,y,y,y
+Banana,n,y,n,n

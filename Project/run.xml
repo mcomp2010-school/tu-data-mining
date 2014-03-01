@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<project default="create_run_jar" name="Create Runnable Jar for Project Project">
+    <!--this file was created by Eclipse Runnable JAR Export Wizard-->
+    <!--ANT 1.7 is required                                        -->
+    <target name="create_run_jar">
+        <jar destfile="C:/Users/manny01/Documents_main/workspace/MainProgramming/Eclipse_Projects/Cosc757_Data Mining/Project/rssfeed.jar" filesetmanifest="mergewithoutmain">
+            <manifest>
+                <attribute name="Main-Class" value="org.rss.Watcher"/>
+                <attribute name="Class-Path" value="."/>
+            </manifest>
+            <fileset dir="C:/Users/manny01/Documents_main/workspace/MainProgramming/Eclipse_Projects/Cosc757_Data Mining/Project/bin"/>
+            <zipfileset excludes="META-INF/*.SF" src="C:/Users/manny01/Documents_main/workspace/MainProgramming/Eclipse_Projects/Cosc757_Data Mining/Project/lib/rome-1.0.jar"/>
+            <zipfileset excludes="META-INF/*.SF" src="C:/Users/manny01/Documents_main/workspace/MainProgramming/Eclipse_Projects/Cosc757_Data Mining/Project/lib/jdom-1.1.1.jar"/>
+            <zipfileset excludes="META-INF/*.SF" src="C:/Users/manny01/Documents_main/workspace/MainProgramming/Eclipse_Projects/Cosc757_Data Mining/Project/lib/commons-lang3-3.1.jar"/>
+            <zipfileset excludes="META-INF/*.SF" src="C:/Users/manny01/Documents_main/workspace/MainProgramming/Eclipse_Projects/Cosc757_Data Mining/Project/lib/commons-io-2.4.jar"/>
+            <zipfileset excludes="META-INF/*.SF" src="C:/Users/manny01/Documents_main/workspace/MainProgramming/Eclipse_Projects/Cosc757_Data Mining/Project/lib/mysql-connector-java-5.1.20-bin.jar"/>
+        </jar>
+    </target>
+</project>
